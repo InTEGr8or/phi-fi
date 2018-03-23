@@ -2,7 +2,7 @@
 title: Westworld vs Arrival
 date: 2017-02-06T12:00:00-08:00
 author: Mark Stouffer
-image: /images/sketch1486099695433.png
+image: images/sketch1486099695433.png
 ---
 <p>Two very popular shows provide counterpoints for two differing world-views. Few reviews of these films take the film's philosophical ideas seriously. They describe them like a clever puzzle or they simply help you consider that those ideas might be true. Here on Phi-Fi we want you to also ask &quot;and then, what?&quot; We want to look more closely at the philosophical ideas and then judge the belief system that would result. We are going to investigate how these different world-views directly conflict and contradict, and how those contradictions can lead to conflicts in the real world.</p><!--more-->
 
