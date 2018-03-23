@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Phi-Fi</title>
+	<atom:link href="http://phi-fi.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://phi-fi.com</link>
+	<description>A survey of philosophy-fiction</description>
+	<lastBuildDate>Wed, 04 Oct 2017 02:07:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/05/cropped-Phi-Fi-Island-150x150.png</url>
+	<title>Phi-Fi</title>
+	<link>http://phi-fi.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.2" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>People are searching for something. &lt;br /&gt;
+&lt;br /&gt;
+We see it all around us in the news, in our society, and in the people around us. People express this search in a lot of different ways, and a lot of people are very confused about the goal, but what we have in common is that we are looking for meaning. &lt;br /&gt;
+&lt;br /&gt;
+Our films are just one of the places people look, but they are the ones that have a whole ecosystem of producers. The writers and creators of films operate in one of the most high-impact mediums of philosophical content, yet their film product is mostly undigested by their critics. The philosophical content is accepted as a whole, while the acting, cinematography, directorial execution, and marketing are dissected in fine detail. Our modern society is awash in a flood of conflicting ideas with no stable ground from which to navigate. &lt;br /&gt;
+&lt;br /&gt;
+Phi-Fi.com provides that stable ground. It is a terra firma of intellectual common ground from which we can analyze the maelström of intellectual ideals propagated by most modern forms of dramatic media. &lt;br /&gt;
+&lt;br /&gt;
+If you enjoy modern philosophical films, such as &quot;The Matrix&quot;, &quot;Breaking Bad&quot;, &quot;The Hunger Games&quot;, &quot;Eternal Sunshine of the Spotless Mind&quot;, &quot;Memento&quot;, or most importantly, the hit ABC TV show &quot;LOST&quot;, then please join us in our investigation of the ideas these films are built on.</itunes:summary>
+	<itunes:author>phi-fi.com</itunes:author>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:image href="http://phi-fi.com/wp-content/uploads/powerpress/Phi-Fi-Island.png" />
+	<itunes:owner>
+		<itunes:name>phi-fi.com</itunes:name>
+		<itunes:email>admin@phi-fi.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>admin@phi-fi.com (phi-fi.com)</managingEditor>
+	<itunes:subtitle>Philosophy fiction and popular media</itunes:subtitle>
+	<image>
+		<title>Phi-Fi</title>
+		<url>http://phi-fi.com/wp-content/uploads/powerpress/Phi-Fi-Island.png</url>
+		<link>http://phi-fi.com</link>
+	</image>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Philosophy"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Arts">
+		<itunes:category text="Visual Arts"></itunes:category>
+	</itunes:category>
+	<itunes:category text="TV &amp; Film">
+	</itunes:category>
+	<googleplay:email>admin@phi-fi.com</googleplay:email>
+	<googleplay:description>People are searching for something. 
+
+We see it all around us in the news, in our society, and in the people around us. People express this search in a lot of different ways, and a lot of people are very confused about the goal, but what we have in common is that we are looking for meaning. 
+
+Our films are just one of the places people look, but they are the ones that have a whole ecosystem of producers. The writers and creators of films operate in one of the most high-impact mediums of philosophical content, yet their film product is mostly undigested by their critics. The philosophical content is accepted as a whole, while the acting, cinematography, directorial execution, and marketing are dissected in fine detail. Our modern society is awash in a flood of conflicting ideas with no stable ground from which to navigate. 
+
+Phi-Fi provides that stable ground. It is a terra firma of intellectual common ground from which we can analyze the maelström of intellectual ideals propagated by most modern forms of dramatic media. 
+
+If you enjoy modern philosophical films, such as &amp;amp;amp;amp;amp;quot;The Matrix&amp;amp;amp;amp;amp;quot;, &amp;amp;amp;amp;amp;quot;Breaking Bad&amp;amp;amp;amp;amp;quot;, &amp;amp;amp;amp;amp;quot;The Hunger Games&amp;amp;amp;amp;amp;quot;, &amp;amp;amp;amp;amp;quot;Eternal Sunshine of the Spotless Mind&amp;amp;amp;amp;amp;quot;, &amp;amp;amp;amp;amp;quot;Memento&amp;amp;amp;amp;amp;quot;, or most importantly, the hit ABC TV show &amp;amp;amp;amp;amp;quot;LOST&amp;amp;amp;amp;amp;quot;, then please join us in our investigation of the ideas these films are built on.</googleplay:description>
+	<googleplay:explicit>Yes</googleplay:explicit>
+	<googleplay:category text="TV &amp; Film" />
+	<rawvoice:rating>TV-14</rawvoice:rating>
+	<rawvoice:location>Fullerton, CA</rawvoice:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:subscribe feed="http://phi-fi.com/feed/podcast/" itunes="https://geo.itunes.apple.com/us/podcast/phi-fi/id1111794038?mt=2" googleplay="http://phi-fi.com/feed/podcast/"></rawvoice:subscribe>
+	<item>
+		<title>Life (2017) - Phi-Fi</title>
+		<link>http://phi-fi.com/life-2017/</link>
+		<pubDate>Fri, 07 Apr 2017 15:54:38 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.com/?p=801</guid>
+		<comments>http://phi-fi.com/life-2017/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/life-2017/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[adaptation]]></category>
+		<category><![CDATA[anti-humanism]]></category>
+		<category><![CDATA[darwinism]]></category>
+		<category><![CDATA[humanism]]></category>
+		<category><![CDATA[man vs. nature]]></category>
+		<category><![CDATA[technology]]></category>
+		<description>Written by Paul Wernick and Rhett Reese, Life is a film exploring the concept of man’s first encounter with life beyond earth. A group of multi-national scientists work to identify traits of a new alien life form aboard the International Space Station. Security becomes compromised during observation, and a death match between the species ensues […]</description>
+		<enclosure url="https://media.blubrry.com/phi_fi/phifi.blob.core.windows.net/podcasts/Life_2017.6.mp3" length="65492148" type="audio/mpeg" />
+		<itunes:subtitle>A brief review of the underlying plot/theme of Life (2017)</itunes:subtitle>
+		<itunes:summary><![CDATA[Written by Paul Wernick and Rhett Reese, Life is a film exploring the concept of man&#8217;s first encounter with life beyond earth. A group of multi-national scientists work to identify traits of a new alien life form aboard the International Space Station. Security becomes compromised during observation, and a death match between the species ensues as they compete to adapt or perish. Who are YOU rooting for? <br />
+<a href="http://phi-fi.com/life-2017/">Show Notes</a><br />
+&#8212; Warning: Contains Plot Spoilers!!! ALWAYS! &#8212;<br />]]></itunes:summary>
+		<itunes:author>Phi-Fi.com</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>54:35</itunes:duration>
+		</item>
+	<item>
+		<title>Meta-Phi-Fi: Superpowers - Phi-Fi</title>
+		<link>http://phi-fi.com/meta-phi-fi-superpowers/</link>
+		<pubDate>Sun, 02 Oct 2016 04:37:58 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.com/?p=165</guid>
+		<comments>http://phi-fi.com/meta-phi-fi-superpowers/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/meta-phi-fi-superpowers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Meta-Phi-Fi]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[ability]]></category>
+		<category><![CDATA[gifted]]></category>
+		<category><![CDATA[heroism]]></category>
+		<category><![CDATA[method]]></category>
+		<category><![CDATA[morality]]></category>
+		<category><![CDATA[talent]]></category>
+		<description>In this episode we explore superheroes and the things that make them special, their superpowers.
+
+We have discussed heroes in earlier episodes, such as Zaphir (Chuck Norris Vs Communism), Solomon Northup (12 Years a Slave), Mogly (Jungle Book), and Ray Gaines (San Andreas). We&#039;ve looked specifically at the affect of heroic vision on the young minds featured in &quot;Chuck Norris vs. Communism&quot;.
+
+We hadn&#039;t considered how deep our exploration into the superhero universe would become when we chose to cover Pixar&#039;s The Incredibles, but since our last podcast we&#039;ve come to understand much more about the ideas behind the lore of these modern marvels. When do hero&#039;s become villains, or vice versa? Can their powers dictate</description>
+		<enclosure url="https://media.blubrry.com/phi_fi/phifi.azureedge.net/podcasts/SuperpowersFinal.mp3" length="117702045" type="audio/mpeg" />
+		<itunes:subtitle>In this episode we explore superheroes and the things that make them special, their superpowers. - We have discussed heroes in earlier episodes, such as Zaphir (Chuck Norris Vs Communism), Solomon Northup (12 Years a Slave), Mogly (Jungle Book),</itunes:subtitle>
+		<itunes:summary><![CDATA[We hadn&#8217;t considered how deep our exploration into the superhero universe would become when we chose to cover Pixar&#8217;s The Incredibles, but since our last podcast we&#8217;ve come to understand much more about the ideas behind the lore of these modern marvels. How do writers create these modern idols? What are the most powerful abilities a person could possess, and could superpowers exist in real life? <br />]]></itunes:summary>
+		<itunes:author>phi-fi.com</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:38:05</itunes:duration>
+		</item>
+	<item>
+		<title>Meta-Phi-Fi: Introduction to Phi-Fi - Phi-Fi</title>
+		<link>http://phi-fi.com/meta-phi-fi-introduction-phi-fi/</link>
+		<pubDate>Mon, 18 Jul 2016 04:02:18 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.com/?p=156</guid>
+		<comments>http://phi-fi.com/meta-phi-fi-introduction-phi-fi/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/meta-phi-fi-introduction-phi-fi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Meta-Phi-Fi]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<description>Philosophy is more than just a plaything of intellectuals. Phi-Fi.com will help you understand what it means to you, and why you find the philosophical content of films so interesting.</description>
+		<enclosure url="http://media.blubrry.com/phi_fi/phi-fi.com/wp-content/uploads/2016/07/Meta-Phi-Fi.001.mp3" length="17181909" type="audio/mpeg" />
+		<itunes:subtitle>Philosophy is more than just a plaything of intellectuals. Phi-Fi.com will help you understand what it means to you, and why you find the philosophical content of films so interesting.</itunes:subtitle>
+		<itunes:summary><![CDATA[In our podcast we use the Island as a metaphor. In the shifting tides of a relativistic computer generated worlds portrayed in modern sci-fi, populated by time-traveling worm-holes, supernatural aliens, and mystical superpowers, we are going to find our way back down to earth, where we actually live.<br />
+Other philosophical investigations of film, such as the many “The Philosophy of..” book reviews of film and television, will take the position that philosophical content must be investigated from a position of complete neutrality. Many philosophers have even stated this explicitly. In fact it is the dominant principle of modern philosophy.<br />
+<a href="https://en.wikipedia.org/wiki/History_of_science_fiction" target="_blank">Wikipedia History of Science Fiction</a><br /><br />
+<a href="http://io9.gizmodo.com/5932802/the-philosophical-roots-of-science-fiction">Gizmodo &#8211; The Philosophical Roots of Science Fiction</a><br />]]></itunes:summary>
+		<itunes:author>phi-fi.com</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:54</itunes:duration>
+		</item>
+	<item>
+		<title>12 Years a Slave (Review) - Phi-Fi</title>
+		<link>http://phi-fi.com/12-years-slave-review/</link>
+		<pubDate>Mon, 30 May 2016 15:54:45 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.com/?p=134</guid>
+		<comments>http://phi-fi.com/12-years-slave-review/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/12-years-slave-review/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[justice]]></category>
+		<category><![CDATA[property]]></category>
+		<category><![CDATA[rights]]></category>
+		<category><![CDATA[self-ownership]]></category>
+		<category><![CDATA[slavery]]></category>
+		<description>A discussion about the characters, the problems with slavery, and the problems slavery imposes on the character of the people.</description>
+		<enclosure url="http://media.blubrry.com/phi_fi/phi-fi.com/wp-content/uploads/2016/05/12YearsASlaveWithIntro.mp3" length="138367486" type="audio/mpeg" />
+		<itunes:subtitle>A discussion about the characters, the problems with slavery, and the problems slavery imposes on the character of the people. We also talk about self-ownership and judging the law that allows slavery.</itunes:subtitle>
+		<itunes:summary><![CDATA[12 Years a Slave (2013)<br /><br />
+R | 2h 14min | Biography, Drama, History | 8 November 2013 (USA) <a href="http://www.imdb.com/title/tt2024544/" target="_blank">IMDb</a><br />
+Today we discuss the 2013 Oscar-winning film &#8220;12 Years a Slave&#8221;.<br /><br />
+We&#8217;re going to talk about<br />
+<br />
+* Judging the law<br />
+* Exploring how slaves are deprived of identity, rights and humanity<br />
+* And the consequences for the society that permits it.<br />
+<br />
+The Making of a Slave<br />
+It takes coordinated and systematic work to break down an individual into a slave. Solomon Northup&#8217;s story reveals this process, and the character of the men who employ it.<br />
+Cast:<br />
+<br />
+Chiwetel Ejiofore<br />
+Solomon Northup<br />
+Family<br />
+Anne, Margaret, Alonzo<br />
+Hamilton &amp; Brown<br />
+Solomon’s Abductors<br />
+Burch &amp; Radburn<br />
+Indoctrinate Solomon/Smugglers<br />
+Clemens<br />
+Informs Solomon to not let master’s know of his intelligence. Returned to his master upon arrival into the docks of Louisiana.<br />
+Freeman<br />
+Paul Giamatti &#8211; Slave trader who sells Platt and Eliza, separating her from her children.<br />
+Ford<br />
+Benevolent slaver archetype who sells “Platt” to defend his life from Tibeats<br />
+Tibeats<br />
+Right hand of Master Ford, who targets Platt after gaining the master’s trust in engineering waterways for transportation.<br />
+Edwin &amp; Mistress Epps<br />
+They treat the slaves as beasts but cannot help but have strong emotions of hate, jealousy, and a sadistic attraction towards their “property”.<br />
+Patsey<br />
+Lupita Nyong’o &#8211; Gains attention from Edwin Epps that infuriates the mistress.<br />
+Armsby<br />
+Garret Dillahunt &#8211; Reveals to Epps the intention of Solomon to get a letter to his family.<br />
+<br />
+<br />
+Quotes:<br />
+Armsby<br /><br />
+“Now before you say I’m just a sorry drunkard let me state my case. As reliable employment overseeing is, it is no easy chore on the spirit. I say no man of conscious can take the lash to another human day in and day out without shredding at his own self. Takes him to a place where he either makes excuses within his mind to be unaffected, or he finds some way to trample his guilty sensations. I trampled with frequency. I gave in to taste in wealth and prosperity. Such a profitable outcomes reserved for plantation masters. It’s on the lot of us to serve. Now all I want, is to earn a decent wage, and get home.”<br />
+Bass &amp; Epps<br /><br />
+“What’s Funny?”<br /><br />
+Epps I merely mean to finish the work at hand. As requested and as paid for.<br /><br />
+“Something rubs you wrongly, I offer the opportunity to speak on it.”<br /><br />
+You ask plainly so I will tell you plainly, what amused me just then was your concern for my well being in this heat. When quite frankly the condition of your laborers… it is horrid. It’s all wrong, all wrong Mr. Epps.<br /><br />
+“What the hell? They ain’t hired help. They’re my property.”<br /><br />
+You say that with pride.<br /><br />
+“I say it as fact.”<br /><br />
+If this conversation concerns what is factual and what is not, then it must be said that there is no justice, no righteousness in this slavery. But you do open up an interesting question, what right have you to your niggas? When you come down to the point.<br /><br />
+“What right? I bought em. I paid for em’.”<br /><br />
+Of course you did, and the law says you have a right to hold a nigger. But beggin’ the laws pardon in lies, suppose they pass a law taking away your liberty? Making you a slave? Suppose.<br /><br />
+“That ain’t a supposable case.”<br /><br />
+Laws change, Epps. Universal truths are constant. It is a fact, a plain and simple fact, that what is true and right is true and right for all. White and black alike.<br /><br />
+“You callin me a nigger, Bass?”<br /><br />
+I’m only asking in the eyes of god what is the difference?<br /><br />
+]]></itunes:summary>
+		<itunes:author>Mark Stouffer, Alex Stouffer, Sylvana - you tour guides to Phi-Fi Island</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:19:36</itunes:duration>
+		<googleplay:description>A discussion about the characters, the problems with slavery, and the problems slavery imposes on the character of the people. We also talk about self-ownership and judging the law that allows slavery.</googleplay:description>
+		</item>
+	<item>
+		<title>Jungle Book (Review) - Phi-Fi</title>
+		<link>http://phi-fi.com/jungle-book-review/</link>
+		<pubDate>Sun, 15 May 2016 16:14:05 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.azurewebsites.net/?p=120</guid>
+		<comments>http://phi-fi.com/jungle-book-review/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/jungle-book-review/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Single Shows]]></category>
+		<description>We’re going to discuss the law of the jungle, egalitarianism vs innovation, and problems with describing capitalism as survival of the fittest. We’re also going to talk about learning to be a man in a world full of animals.</description>
+		<enclosure url="http://media.blubrry.com/phi_fi/phi-fi.com/wp-content/uploads/2016/05/JungleBook.mp3" length="97573331" type="audio/mpeg" />
+		<itunes:subtitle>Learning to be a man in a world full of animals</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+<br />
+Jungle Book 2016<br />
+PG  |  106 min  |  <a href="http://www.imdb.com/genre/Adventure?ref_=tt_ov_inf" target="_blank">Adventure</a>, <a href="http://www.imdb.com/genre/Drama?ref_=tt_ov_inf" target="_blank">Drama</a>, <a href="http://www.imdb.com/genre/Family?ref_=tt_ov_inf" target="_blank">Family</a>  |  <a title="See all release dates" href="http://www.imdb.com/title/tt3040964/releaseinfo?ref_=tt_ov_inf%20" target="_blank">15 April 2016 (USA)</a><br />
+&nbsp;<br />
+Contents<br />
+<br />
+Jungle Book, the 2016 Disney hit<br />
+We’re going to discuss the law of the jungle, egalitarianism vs innovation, and problems with describing capitalism as survival of the fittest.<br />
+We’re also going to talk about learning to be a man in a world full of animals.<br />
+<br />
+<br />
+Themes<br />
+<br />
+The Law of the Jungle<br />
+<br />
+Appeal to Nature<br />
+Does not actually have a good reputation<br />
+Is used as a description of capitalism<br />
+<br />
+Survival of the fitest<br />
+Dog-eat-dog<br />
+Every man for himself<br />
+The goal of which is hedonism.<br />
+<br />
+<br />
+Not a code for a rational animal<br />
+Not a philosophy for living on Earth<br />
+A nature-driven description of an archetype selfishness<br />
+But this view does not tell you what actually constitutes your self-interest.<br />
+The film recognizes the difference of man from the animal, but does not recognize that man needs an additional philosophy to determine man’s rational values.<br />
+<br />
+<br />
+Man as rational animal<br />
+<br />
+Man survives by rational thought. <br />
+He is not guided by instinct. <br />
+The wolves teach the man-cub how to live as wolves live, and they recognize this in the movie. They cannot teach the man-cub to live as a man. The wolves recognize this, but modern intellectuals do not recognize this. <br />
+Terra forming<br />
+<br />
+<br />
+Man operates between and among collectives.<br />
+<br />
+<br />
+Synopsis, <br />
+<br />
+After a threat from the tiger, Sher Khan, forces him to flee the jungle, a man-cub named, Mowgli, embarks on a journey of self discovery with the aid of the panther, Bagheera, and the free spirited bear, Baloo.<br />
+<br />
+<br />
+Characters<br />
+<br />
+<br />
+Mowgly, Neel Sethi<br />
+Bahgeera, Ben Kingsley<br />
+Shere Khan, Idris Elba<br />
+Baloo, Bill Murry<br />
+Kaa, Scarlett Johansson<br />
+King Louie, Christopher Walken<br />
+Akela, Giancarlo Esposito<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Notes:<br />
+Social laws derived from &#8220;natural&#8221; laws:<br /><br />
+<a href="https://en.m.wikipedia.org/wiki/Social_Darwinism">https://en.m.wikipedia.org/wiki/Social_Darwinism</a><br />
+Mogly has I gourd on a chord, but he is not allowed to use this innovative technology at the water hole. The law of the jungle forbids innovation.<br />
+Sher-kan asks how many lives is a mass-cub worth.<br />
+Sher-kan<br /><br />
+You did not respond to reason, so now you will know fear<br />
+Kaa<br /><br />
+I know what you are. I know how you got here.<br />
+Mogly makes ropes and stuff to get Baloo some honey.<br />
+Baloo<br /><br />
+Kid, that&#8217;s not a song. That&#8217;s propaganda. (About the law of the jungle)<br />
+Baloo<br /><br />
+The things I saw you do today. I&#8217;ve never seen that before.<br /><br />
+Mowgli<br /><br />
+That was me using my tricks. It&#8217;s not the wolf way.<br /><br />
+Baloo<br /><br />
+Who cares about the elf way? That&#8217;s the Mogly way. The Baloo way.<br />
+Mogly helps the bear and the elephants with his tricks.<br />
+Mogly takes s torch of the red flower after hearing that Shere Kahn killed Akela<br />
+Mogly accidentally sets the jungle on fire. Shere Khan tells them that this is why he wanted to kill Mogly. Sher-kan knew what Mogly was going to become.<br />
+He is saying that man is the destroyer. Mogly uses an elaborate plan to trap Sher-kan and lead him to his death.<br />
+Mogly<br /><br />
+I&#8217;m not afraid of you. I&#8217;m done running from you.<br />
+]]></itunes:summary>
+		<itunes:author>Mark Stouffer, Alex Stouffer, Sylvana</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:32:00</itunes:duration>
+		</item>
+	<item>
+		<title>San Andreas (2015) Review - Phi-Fi</title>
+		<link>http://phi-fi.com/san-andreas/</link>
+		<pubDate>Sun, 08 May 2016 01:30:14 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.azurewebsites.net/?p=110</guid>
+		<comments>http://phi-fi.com/san-andreas/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/san-andreas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[justice]]></category>
+		<category><![CDATA[property]]></category>
+		<description>In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.</description>
+		<enclosure url="http://media.blubrry.com/phi_fi/phi-fi.com/wp-content/uploads/2016/05/SanAndreas2.mp3" length="81199104" type="audio/mpeg" />
+		<itunes:subtitle>Phi-Fi Review of San Andreas (2015) PG-13 | 1h 54min | Action, Adventure, Drama | 29 May 2015 (USA)</itunes:subtitle>
+		<itunes:summary><![CDATA[Film: San Andreas (2015)<br /><br />
+PG-13 | 1h 54min | Action, Adventure, Drama | 29 May 2015 (USA)<br /><br />
+Synopsis: In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.<br />
+Paul Giamatti plays a Dr Lawrence Hayes. His assistant, Dr. Kim Park, sacrifices himself saving a girl, and after the fact the mother appears shortly thereafter to retrieve her daughter. The mother did not thank the Dr Lawrence Hayes. He stood in shock that his colleague is dead. They are shown together in a photo of the Dr Lawrence Hayess office. They embrace in a side hug and put their fists together for the photo. They are very close. Dr Lawrence Hayes continues his mission of creating a predictive system for earthquake detection. They discover a massive quake scheduled to affect the andreas fault.<br />
+Ray Gaines is a father recently divorced by his wife and by proxy, his family. The mother is moving in with a new guy who’s replacing Ray Gaines’s role in the family. The new guy makes mentyion to the daughter that he will never try to take her father’s place or get in the way of their relationship. He never had any kids because he was always too busy raising these (buildings). He’s an architect.<br />
+Ray Gaines is heralded to the rescue of ex-wife during a courtesy call. He tells her to take as many people as possible to the roof. Blake’s legs are stuck when the earthquake hits. Their in a parking garage, and the driver is crushed in the wreckage. Daniel leaves her in the back, to go for help. The man from the lobby hears the call, and after daniel is dazed from falling debris he suffers a case of amnesia. The man in the lobby goes to rescue blake on a hunch that it may be her.<br />
+Meanwhile on the roof. Emma Gains tries to hold it together amidst chaos. She attempts to tell people that a rescue will happen on the roof, but they ignore her and proceed to attempt an escape from the building downstairs. She is the sole rescue.<br />
+Blake is stuck and the british bros show up to help pry the wreckage off with rebar. Blake tells the boys to get out and save themselves. However the older brother finds a jack, It jams, but Ben uses the rod to puncture the tires and lower the level of the vehicle. Allowing her escape. Was it altruistic, or could that have been done in Ben’s interest? A 9.1 earthquake.<br />
+The pulse rates continue after the quake and Dr Lawrence Hayes and his crew recognize that the devastation will continue. They “hack” the media outlets with the AV club.<br />
+Blake and bros look for push button phones and a landline to make an emergency call. The older brother doesn’t bother to mention the events that cause Daniel to become dazed and disoriented. Blake despises Daniel for his actions, and relays it to her mother. In kind, the mother calls Daniel and leaves him a death threat. “Atta Girl”, says Ray Gaines. Daniel is amidst the crowded street when the next quake hits. In a struggle for safety, Daniel strips a man away from a protective wall and throws him into the rolling fray.<br />
+The helicopter has a gear box failure from a hit taken in Los Angeles. Ray Gaines controls a crash situation to the best of his abilitiy. The chopper dips up and down, and as it’s about to land a man comes into the LZ and they swerve out of the way and into a pole. They crash into a big box store where people are looting TV’s. They begin to steal a pre-stolen truck and Ray Gaines acts in self defense when held at gun point by an unrelated party. He cracks him and takes his pistol.<br />
+Dr. explains a swarm event where the entire techtonic plate shifts. He says get out of SF or hold on tight. God be with you.<br />
+Emma Gains: we didn’t move on, we stopped moving.<br /><br />
+Ray Gaines: she’s gone, your gone. What’s the point?<br /><br />
+Emma Gains: this is why i didn’t stick around.<br />
+]]></itunes:summary>
+		<itunes:author>Phi-Fi.com</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:05:58</itunes:duration>
+		<googleplay:description>Phi-Fi Review of San Andreas (2015) PG-13 | 1h 54min | Action, Adventure, Drama | 29 May 2015 (USA)</googleplay:description>
+		</item>
+	<item>
+		<title>Look Who&#8217;s Back &#124; Hitler&#8217;s Return - Phi-Fi</title>
+		<link>http://phi-fi.com/look-whos-back/</link>
+		<pubDate>Tue, 03 May 2016 06:41:43 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.azurewebsites.net/?p=93</guid>
+		<comments>http://phi-fi.com/look-whos-back/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/look-whos-back/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Review]]></category>
+		<description>A humorous rendition of a teleported Hitler provides an unusual perspective to reflect on the modern political landscape of Germany.</description>
+		<enclosure url="http://media.blubrry.com/phi_fi/phi-fi.com/wp-content/uploads/2016/05/LookWhosBack.v2.mp3" length="100913743" type="audio/mpeg" />
+		<itunes:subtitle>A humorous rendition of a teleported Hitler provides an unusual perspective to reflect on the modern political landscape of Germany.</itunes:subtitle>
+		<itunes:summary><![CDATA[Hitler awakes in a field in Berlin, Germany Circa 2014, and continues  life as he knows it since his disappearance in 1945. Meanwhile, a struggling freelance journalist sees his chance to get a his big break.<br />
+People are still fascinated by this charismatic leader and the atrocities he committed in the name of the homeland. So how is this Hitler movie different from the others? Look Who&#8217;s Back provides the audience with a chance to see how such a leader rose to power then, and how it could still happen after nearly a century.<br />]]></itunes:summary>
+		<itunes:author>phi-fi.com</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:25:12</itunes:duration>
+		</item>
+	<item>
+		<title>Chuck Norris vs Communism (Review) - Phi-Fi</title>
+		<link>http://phi-fi.com/chuck-norris-vs-communism-review/</link>
+		<pubDate>Sun, 24 Apr 2016 02:00:25 +0000</pubDate>
+		<guid isPermaLink="false">http://phi-fi.azurewebsites.net/?p=113</guid>
+		<comments>http://phi-fi.com/chuck-norris-vs-communism-review/#respond</comments>
+		<wfw:commentRss>http://phi-fi.com/chuck-norris-vs-communism-review/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[commerce]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[property]]></category>
+		<description>A documentary about how western films were smuggled into romainia during the rise of VHS</description>
+		<enclosure url="http://media.blubrry.com/phi_fi/phi-fi.com/wp-content/uploads/2016/05/PodcastSession.v1.mp3" length="58184722" type="audio/mpeg" />
+		<itunes:subtitle>A documentary about how western films were smuggled into romainia during the rise of VHS</itunes:subtitle>
+		<itunes:summary><![CDATA[Film: Chuck Norris vs Communism (2015)<br /><br />
+1h 18min | Documentary, Comedy, History | 12 November 2015 (Germany)<br /><br />
+A documentary about how western films were smuggled into romainia during the rise of VHS<br />
+Key Points<br /><br />
+Why did we pick a documentary for our first film, even though our focus is Philosophy in Fiction?<br /><br />
+What is the film about?<br /><br />
+How did contraband films change Romanian culture? How does it compare to western culture from the same era?<br /><br />
+How did Zamfir create and develop the film market?<br /><br />
+In what ways does this film reflect media access on the internet today?<br />
+## How is this film related to Phi-Fi?<br />
+Phi-Fi is about the philosophical impact of fiction on our lives, and by philosophical I mean the core basis of knowledge about reality and our place in it. So this documentary touches on the importance of philosophy thought and conversation through the medium of drama. Drama provides moral and aesthetic use cases and a common knowledge narrative through which conversations can be worked through and common ground can be reached.<br />
+The liberalization of publication<br />
+The VCR Liberation in the U.S. had a later similar event in Soviet Romania. In the U.S. many small mom-and-pop shops opened up to sell the VCR tapes of popular movies. This market was big enough to put a VCR shop in every mini-mall and every major street in a town. The mom-and-pops in the U.S. existed in a new market that was mostly free and unregulated, so it was easy for many people to start up. Some people even started by selling the videos out of the back of their cars before opening a shop.<br />
+In Soviet Romania they were not operating in a free market, but were instead in one of the most restrictive societies in the Soviet Union.<br />
+The core of the value of the film market Zamfir created<br />
+After the Chuck Norris biting the rat the man reflects:<br /><br />
+&#8220;After the film ended&#8221;, and they show the boys having a mock fight outside at night, &#8220;A street wasn&#8217;t just a street. A rock wasn&#8217;t just a rock. They were challenges. We started to play in a disciplined manner. We wanted to be&#8230; heroes&#8221; and then they show the heroes from several western 80&#8217;s films.<br />
+The vision of the heroic we very important to children who were, as most children are, so continuously trying to become adults and learning how to do that.<br />
+## The Fountain of Film<br />
+The Western films became one of the most valuable commodities in Romania. It was what people traded their money in for, and it was what bureaucrats accepted as bribes, even top officials. Irina Nistor said it was “my oxygen”, even after being confronted by secret police. She translated the films for years, not for the money, but for the chance to see all the films.<br />
+Hollywood exports English speaking drama to every corner of the earth. It is probably part of the reason English is accepted as the international language of business, of air traffic control and other standards.<br />
+Cheap, easily accessible drama with an American spirit was more popular worldwide than the British, French, and Russian products. Films are cultural products.<br />
+## Zamfir as Capitalist<br />
+He was not an imperialist.<br /><br />
+exports English speaking drama to every corner of the Earth. It is probably part of the reason English is accepted as the international language of business, of air traffic control and other standards.<br />
+Cheap, easily accessible drama with an American spirit was more popular worldwide than the British, French, and Russian products. Films are cultural products.<br />
+## Black Market Effect on Patrons of Film<br />
+For most people viewing these movies, people couldn’t emote while watching out of fear of who might be sitting right next to them.<br />
+Kids were different, as they would see and then emulate Rocky. It sparked their imagination,]]></itunes:summary>
+		<itunes:author>Phi-Fi.com</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>56:15</itunes:duration>
+		<googleplay:description>A documentary about how western films were smuggled into romainia during the rise of VHS &lt;br /&gt;</googleplay:description>
+		</item>
+</channel>
+</rss>

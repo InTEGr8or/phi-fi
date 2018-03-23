@@ -1,0 +1,12 @@
+{
+	"database.connections": [
+		{
+			"type": "mysql",
+			"name": "us-cdbr-azure-west-b.cleardb.com (mysql)",
+			"host": "us-cdbr-azure-west-b.cleardb.com:3306",
+			"user": "b77f0911d9d616",
+			"password": "e4b8fdaa",
+			"database": "acsm_4ba41f6c770a6de"
+		}
+	]
+}
