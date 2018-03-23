@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://phi-fi.com/valerian-2017/</loc>
+    <lastmod>2017-10-03T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/life-2017/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/</loc>
+    <lastmod>2017-10-03T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/adaptation/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/anti-humanism/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/darwinism/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/humanism/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/man-vs-nature/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/tags/technology/</loc>
+    <lastmod>2017-04-07T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

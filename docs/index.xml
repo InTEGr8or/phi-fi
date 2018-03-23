@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://phi-fi.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Oct 2017 12:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://phi-fi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Valerian (2017)</title>
+      <link>http://phi-fi.com/valerian-2017/</link>
+      <pubDate>Tue, 03 Oct 2017 12:00:00 -0800</pubDate>
+      
+      <guid>http://phi-fi.com/valerian-2017/</guid>
+      <description>Valerian is a story of heroism and adventure told over a love story background. The characters are interesting, especially considering that they are pretty young, and the story-line is exciting and engaging. The visuals are fantastic a treat all to themselves, and reason enough to see the film. The costumes, the landscape and the action scenes are pretty spectacular, but are well blended into the storytelling in the same way they were in The Fifth Element, only newer.</description>
+    </item>
+    
+    <item>
+      <title>Life (2017)</title>
+      <link>http://phi-fi.com/life-2017/</link>
+      <pubDate>Fri, 07 Apr 2017 12:00:00 -0800</pubDate>
+      
+      <guid>http://phi-fi.com/life-2017/</guid>
+      <description>Written by Paul Wernick and Rhett Reese, Life is a film exploring the concept of man’s first encounter with life beyond earth. A group of multi-national scientists work to identify traits of a new alien life form aboard the International Space Station. Security becomes compromised during observation, and a death match between the species ensues as they compete to adapt or perish. Who are YOU rooting for?</description>
+    </item>
+    
+  </channel>
+</rss>
