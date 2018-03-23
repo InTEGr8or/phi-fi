@@ -13,7 +13,7 @@ printf "Build the project."
 rmdir docs/** -r
 rm -rf docs/** 
 
-printf "phi-fi.com" > docs/CNAME
+# printf "phi-fi.com" > docs/CNAME
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 msg="rebuilding site `date`"
