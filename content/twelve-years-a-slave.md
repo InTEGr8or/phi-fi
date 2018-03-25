@@ -1,6 +1,7 @@
 ---
 title: Twelve Years a Slave
 date: 2016-05-30T09:00:00-08:00
+audio: 12YearsASlaveWithIntro.mp3
 image: /images/DXG0E2.jpg
 tags:
   - justice
