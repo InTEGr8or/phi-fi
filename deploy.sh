@@ -43,5 +43,5 @@ git push # origin master -f
 # cd ..
 
 printf "Task complete. You may close this window..."
-# read
+read
 # open "http://phi-fi.com"
