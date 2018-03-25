@@ -14,6 +14,7 @@ rmdir docs/** -r
 rm -rf docs/** 
 
 # printf "phi-fi.com" > docs/CNAME
+printf "Building Hugo"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 msg="rebuilding site `date`"
