@@ -1,7 +1,7 @@
 ---
 title: Chuck Norris vs Communism (Review)
 date: 2016-10-25T16:00:00-08:00
-image: images/ChuckNorrisVCommunism.jpg
+image: /images/ChuckNorrisVCommunism.jpg
 tags:
   - art
   - commerce

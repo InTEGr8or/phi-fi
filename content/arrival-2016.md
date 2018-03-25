@@ -1,7 +1,7 @@
 ---
 title: Arrival (2016)
 date: 2016-12-13T20:00:00-08:00
-image: images/arrival-ship-1.png
+image: /images/arrival-ship-1.png
 ---
 <blockquote>
 <p>Memory is a strange thing. It doesn&#39;t work like I thought it did. We are so bound by time. But now I&#39;m not so sure I believe in beginnings and endings.</p>

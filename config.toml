@@ -15,6 +15,10 @@ googleAnalytics = "UA-115076488-1"
 [params]
   title = "Phi-Fi"
   taglines = ["Philosophy Fiction"]
+  audioURL = "https://integr8or.github.io/phi-fi-audio/"
+  auzureAudioURL = "https:phifi.blob.core.windows.net/podcasts/"
+  bbURL = "https://media.blubrry.com/phi_fi/p/integr8or.github.io/phi-fi-audio/"
+  favicon = "/images/cropped-Phi-Fi-Island-300x300.png"
   # Date format
   #dateFormat = "January 2, 2006"
 
