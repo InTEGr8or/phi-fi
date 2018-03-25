@@ -1,6 +1,7 @@
 ---
 title: "Meta-Phi-Fi: Superpowers"
 date: 2016-10-06T12:00:00-08:00
+audio: SuperpowersFinal.mp3
 image: /images/superpowers3.png
 tags: 
   - ability

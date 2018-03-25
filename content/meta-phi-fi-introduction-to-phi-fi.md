@@ -1,6 +1,7 @@
 ---
 title: "Meta-Phi-Fi: Introduction to Phi-Fi"
 date: 2017-04-19T12:00:00-08:00
+audio: Meta-Phi-Fi.001.mp3
 image: /images/Phi-Fi-Island.png
 ---
 In our podcast we use the Island as a metaphor. In the shifting tides of a relativistic computer generated worlds portrayed in modern sci-fi, populated by time-traveling worm-holes, supernatural aliens, and mystical superpowers, we are going to find our way back down to earth, where we actually live.

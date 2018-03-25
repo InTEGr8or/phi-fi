@@ -1,6 +1,7 @@
 ---
 title: Jungle Book (2016)
 date: 2016-05-15T12:00:00-08:00
+audio: JungleBook.mp3
 image: /images/junglebook11.jpg
 ---
 <ul>

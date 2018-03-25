@@ -1,6 +1,7 @@
 ---
 title: Look Who's Back
 date: 2016-05-04T12:00:00-08:00
+audio: LookWhosBack.v2.mp3
 image: /images/LookWhosBack.jpg
 description: A humorous rendition of a teleported Hitler provides an unusual perspective to reflect on the modern political landscape of Germany.
 ---
