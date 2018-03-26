@@ -1,10 +1,9 @@
 ---
-title: San Andreas
+title: San Andreas (2015)
 image: /images/SanAncreas.jpg
 audio: SanAndreas2.mp3
 date: 2016-05-07T12:00:00-08:00
 ---
-Film: San Andreas (2015)
 PG-13 | 1h 54min | Action, Adventure, Drama | 29 May 2015 (USA)
 Synopsis: In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.
 
