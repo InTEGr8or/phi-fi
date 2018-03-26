@@ -1,6 +1,6 @@
 ---
 title: San Andreas (2015)
-image: /images/SanAncreas.jpg
+image: /images/SanAndreas.jpg
 audio: SanAndreas2.mp3
 date: 2016-05-07T12:00:00-08:00
 ---
