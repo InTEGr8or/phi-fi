@@ -15,7 +15,7 @@ after_success: |
     rm -rf docs hugo_*
     f= open("docs/CNAME","w+")
     f.write("phi-fi.com")
-    f.close
+    f.close()
     git add -f --ignore-errors --all
     git -c user.name='travis' -c user.email='travis' commit -m init
     git push https://github.com/integr8or/phi-fi master
