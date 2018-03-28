@@ -11,18 +11,20 @@ tags:
   - slavery
 ---
 12 Years a Slave (2013)
-R | 2h 14min | Biography, Drama, History | 8 November 2013 (USA) <a href="http://www.imdb.com/title/tt2024544/" target="_blank">IMDb</a>
+R | 2h 14min | Biography, Drama, History | 8 November 2013 (USA) [IMDb](http://www.imdb.com/title/tt2024544/)
 
 Today we discuss the 2013 Oscar-winning film "12 Years a Slave".
 We're going to talk about
-<ul>
- 	<li>Judging the law</li>
- 	<li>Exploring how slaves are deprived of identity, rights and humanity</li>
- 	<li>And the consequences for the society that permits it.</li>
-</ul>
-<h2>The Making of a Slave</h2>
+- Judging the law
+- Exploring how slaves are deprived of identity, rights and humanity
+- And the consequences for the society that permits it.
+
+## The Making of a Slave
+
 It takes coordinated and systematic work to break down an individual into a slave. Solomon Northup's story reveals this process, and the character of the men who employ it.
-<h2>Cast:</h2>
+
+## Cast
+
 <dl>
  	<dt>Solomon Northup</dt>
  	<dd>Chiwetel Ejiofore</dd>
@@ -47,8 +49,9 @@ It takes coordinated and systematic work to break down an individual into a slav
  	<dt>Armsby</dt>
  	<dd>Garret Dillahunt - Reveals to Epps the intention of Solomon to get a letter to his family.</dd>
 </dl>
-<!--more-->
-<h2>Quotes:</h2>
+
+## Quotes:
+
 Armsby
 “Now before you say I’m just a sorry drunkard let me state my case. As reliable employment overseeing is, it is no easy chore on the spirit. I say no man of conscious can take the lash to another human day in and day out without shredding at his own self. Takes him to a place where he either makes excuses within his mind to be unaffected, or he finds some way to trample his guilty sensations. I trampled with frequency. I gave in to taste in wealth and prosperity. Such a profitable outcomes reserved for plantation masters. It’s on the lot of us to serve. Now all I want, is to earn a decent wage, and get home.”
 
@@ -87,7 +90,9 @@ You luxuriate in his favor.
 So Ford is your opportunity? You think he does not know that you are more than you suggest. But he does nothing for you. Nothing. You are no better than prized livestock. Call for him. Call. Tell him of your previous circumstances and see what it earns you Solomon. So you settling into your role as Platt then?
 “My back is thick with scars from protesting my freedom. Do not accuse me.”
 I do not accuse you of nothing. I cannot accuse. I have done dishonorable things to survive and for all of them I have ended up here. No better than if I stood up by myself. God forgive me. Solomon let me weep for my children.
-<h2>From the book</h2>
+
+## From the book
+
 "At length, as they were dragging me towards the tree, Chapin, who had momentarily disappeared from the piazza, came out of the house and walked towards us. He had a pistol in each hand, and as near as I can now recall to mind, spoke in a firm, determined manner, as follows: “Gentlemen, I have a few words to say. You had better listen to them. Whoever moves that slave another foot from where he stands is a dead man. In the first place, he does not deserve this treatment. It is a shame to murder him in this manner. I never knew a more faithful boy than Platt. You, Tibeats, are in the fault yourself. You are pretty much of a scoundrel, and I know it, and you richly deserve the flogging you have received. In the next place, I have been overseer on this plantation seven years, and, in the absence of William Ford, am master here. My duty is to protect his interests, and that duty I shall perform. You are not responsible— you are a worthless fellow. Ford holds a mortgage on Platt of four hundred dollars. If you hang him he loses his debt. Until that is canceled you have no right to take his life. You have no right to take it any way. There is a law for the slave as well as for the white man. You are no better than a murderer."
 
 Northup, Solomon. Twelve Years a Slave (pp. 47-48). Open Road Media. Kindle Edition.
