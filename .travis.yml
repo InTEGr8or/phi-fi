@@ -9,7 +9,7 @@ script:
     - hugo
 
 after_success: |
-    git checkout --orphan master
+    git checkout master
     git rm -rf .
     mv docs/* .
     rm -rf docs hugo_*
