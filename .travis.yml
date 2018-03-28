@@ -9,3 +9,4 @@ install:
 # Build the website
 script:
   - binaries/hugo --theme=whiteplain
+  - printf "phi-fi.com" > docs/CNAME
