@@ -1,6 +1,6 @@
 ---
 title: Valerian (2017)
-date: 2017-08-06T12:00:00-08:00
+date: 2017-07-28T12:00:00-08:00
 image: /images/valerian02.jpg
 ---
 
