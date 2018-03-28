@@ -72,7 +72,7 @@ Who cares about the elf way? That's the Mogly way. The Baloo way.
 
 Mogly helps the bear and the elephants with his tricks.
 
-Mogly takes s torch of the red flower after hearing that Shere Kahn killed Akela
+Mogly takes s torch of the "red flower" after hearing that Shere Kahn killed Akela
 
 Mogly accidentally sets the jungle on fire. Shere Khan tells them that this is why he wanted to kill Mogly. Sher-kan knew what Mogly was going to become.
 
