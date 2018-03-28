@@ -18,4 +18,4 @@ after_success: |
     f.close
     git add -f --ignore-errors --all
     git -c user.name='travis' -c user.email='travis' commit -m init
-    git push -f -q https://github.com/integr8or/phi-fi master
+    git push https://github.com/integr8or/phi-fi master
