@@ -1,6 +1,6 @@
 ---
 title: "1979 Revolution: Black Friday (Review)"
-date: 2017-12-06T12:00:00-08:00
+date: 2016-12-04T12:00:00-08:00
 image: /images/Screenshot-160-768x434.png
 tags:
   - choice

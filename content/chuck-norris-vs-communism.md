@@ -1,6 +1,6 @@
 ---
 title: Chuck Norris vs Communism (Review)
-date: 2016-10-25T16:00:00-08:00
+date: 2016-04-24T16:00:00-08:00
 image: /images/ChuckNorrisVCommunism.jpg
 audio: PodcastSession.v1.mp3
 tags:
