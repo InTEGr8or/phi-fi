@@ -1,23 +1,23 @@
 # language: python
 
 install:
-    - wget https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.deb
-    - sudo dpkg -i hugo*.deb
+    # - wget https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.deb
+    # - sudo dpkg -i hugo*.deb
     # - pip install Pygments
 
 script:
-    - hugo
+    - binaries/hugo
 
-after_success: |
-    git checkout master
-    git rm -rf .
-    mv docs/* .
-    rm -rf docs hugo_*
-    printf "\nWriting CNAME\n"
-    baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
-    printf $baseURL > docs/CNAME
-    printf "\nAdding\n"
-    git add -f --ignore-errors --all
-    git -c user.name='travis' -c user.email='travis' commit -m init
-    printf "\nPushing\n"
-    git push https://github.com/integr8or/phi-fi master
+after_success: 
+    - git checkout master
+    # git rm -rf .
+    - mv docs/* .
+    - rm -rf docs hugo_*
+    - printf "\nWriting CNAME\n"
+    - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
+    - printf $baseURL > docs/CNAME
+    - printf "\nAdding\n"
+    - git add -f --ignore-errors --all
+    - git -c user.name='travis' -c user.email='travis' commit -m init
+    - printf "\nPushing\n"
+    - git push https://github.com/integr8or/phi-fi master
