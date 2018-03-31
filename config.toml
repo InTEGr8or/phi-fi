@@ -1,6 +1,5 @@
 theme = "whiteplain"
 baseURL = "http://phi-fi.com"
-# baseURL = "https://integr8or.github.io/phi-fi"
 languageCod = "en-us"
 topics = ["News", "Reviews", "Critic"]
 

@@ -4,8 +4,10 @@
 #!/bin/bash
 #*
 # rm -rf public
-# git submodule add -b master git@github.com:InTEGr8or/nofakingway.git public
 # git submodule add -b master git@github.com:InTEGr8or/hugo_blackplain_theme.git layouts
+# git clone https://gist.github.com/aad5b14b17276e803d352898a6c88c5b.git tmp
+# mv hugo_deploy.sh .
+# rm -rf tmp/
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m"
 
@@ -15,7 +17,8 @@ rm -rf docs/**
 
 printf "Building Hugo"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-printf "phi-fi.com" > docs/CNAME
+baseURL=$(cat config.toml | grep baseURL | awk '{print $3}')
+printf $baseURL > docs/CNAME
 
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
@@ -44,5 +47,5 @@ git push # origin master -f
 # cd ..
 
 printf "Task complete. You may close this window..."
-read
-# open "http://phi-fi.com"
+# read
+# open $baseURL

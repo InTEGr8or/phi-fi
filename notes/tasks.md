@@ -1,8 +1,11 @@
 # Phi-Fi migration to github.io
 
-* [ ] export all posts
+* [X] ~~*export all posts*~~ [2018-03-31]
 * [ ] Download Windows 10 machine content
-* [ ] add posts to github.io site
-* [ ] get audio player working with github
-	* [ ] https://integr8or.github.io/phi-fi-audio/Life_2017.5.mp3
+* [X] ~~*add posts to github.io site*~~ [2018-03-31]
+* [X] ~~*get audio player working with github*~~ [2018-03-31]
+	* [X] ~~*https://integr8or.github.io/phi-fi-audio/Life_2017.5.mp3*~~ [2018-03-31]
+* [ ] Verify podcast feed with pocket-casts
+* [ ] Verify podcast feed with iTunes.
+* [ ] get travis-ci.org script working so that checkins build Hugo docs/ folder properly.
 
