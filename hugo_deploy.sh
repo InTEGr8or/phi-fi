@@ -16,7 +16,7 @@ rmdir docs/** -r
 rm -rf docs/** 
 
 printf "Building Hugo"
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo 
 baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
 printf $baseURL > docs/CNAME
 

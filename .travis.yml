@@ -13,12 +13,11 @@ after_success: |
     git rm -rf .
     mv docs/* .
     rm -rf docs hugo_*
-    print("\nWriting CNAME\n")
-    f= open("docs/CNAME","w+")
-    f.write("phi-fi.com")
-    f.close()
-    print("\nAdding\n")
+    printf "\nWriting CNAME\n"
+    baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
+    printf $baseURL > docs/CNAME
+    printf "\nAdding\n"
     git add -f --ignore-errors --all
     git -c user.name='travis' -c user.email='travis' commit -m init
-    print("\nPushing\n")
+    printf "\nPushing\n"
     git push https://github.com/integr8or/phi-fi master
