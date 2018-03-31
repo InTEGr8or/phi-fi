@@ -17,7 +17,7 @@ rm -rf docs/**
 
 printf "Building Hugo"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-baseURL=$(cat config.toml | grep baseURL | awk '{print $3}')
+baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
 printf $baseURL > docs/CNAME
 
 msg="rebuilding site `date`"
