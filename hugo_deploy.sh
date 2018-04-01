@@ -11,14 +11,14 @@
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-printf "Build the project."
-rmdir docs/** -r
-rm -rf docs/** 
+# printf "Build the project."
+# rmdir docs/** -r
+# rm -rf docs/** 
 
-printf "Building Hugo"
-hugo 
-baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
-printf $baseURL > docs/CNAME
+# printf "Building Hugo"
+# hugo 
+# baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
+# printf $baseURL > docs/CNAME
 
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
