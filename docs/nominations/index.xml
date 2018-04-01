@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nominations on Phi-Fi</title>
+    <title>Nominations on </title>
     <link>http://phi-fi.com/nominations/</link>
-    <description>Recent content in Nominations on Phi-Fi</description>
+    <description>Recent content in Nominations on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
-    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
     <lastBuildDate>Fri, 28 Jul 2017 12:00:00 -0800</lastBuildDate>
     
 	<atom:link href="http://phi-fi.com/nominations/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>Valerian (2017)</title>
       <link>http://phi-fi.com/nominations/valerian-2017/</link>
       <pubDate>Fri, 28 Jul 2017 12:00:00 -0800</pubDate>
-      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      
       <guid>http://phi-fi.com/nominations/valerian-2017/</guid>
       <description>Valerian is a story of heroism and adventure told over a love story background. The characters are interesting, especially considering that they are pretty young, and the story-line is exciting and engaging. The visuals are fantastic a treat all to themselves, and reason enough to see the film. The costumes, the landscape and the action scenes are pretty spectacular, but are well blended into the storytelling in the same way they were in The Fifth Element, only newer.</description>
     </item>
@@ -25,7 +23,7 @@
       <title>Arrival (2016)</title>
       <link>http://phi-fi.com/nominations/arrival-2016/</link>
       <pubDate>Mon, 05 Dec 2016 20:00:00 -0800</pubDate>
-      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      
       <guid>http://phi-fi.com/nominations/arrival-2016/</guid>
       <description>&lt;p&gt;&lt;blockquote&gt;
 &lt;p&gt;Memory is a strange thing. It doesn&amp;#39;t work like I thought it did. We are so bound by time. But now I&amp;#39;m not so sure I believe in beginnings and endings.&lt;/p&gt;
@@ -38,7 +36,7 @@
       <title>Get Out (2017)</title>
       <link>http://phi-fi.com/nominations/get-out-2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      
       <guid>http://phi-fi.com/nominations/get-out-2017/</guid>
       <description>The question of self-ownership becomes viscerally real in this retelling of race relations in elite circles.</description>
     </item>

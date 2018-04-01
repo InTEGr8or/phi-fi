@@ -68,6 +68,12 @@
   </url>
   
   <url>
+    <loc>http://phi-fi.com/</loc>
+    <lastmod>2017-07-28T12:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://phi-fi.com/tags/ability/</loc>
     <lastmod>2016-10-06T12:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -196,12 +202,6 @@
   
   <url>
     <loc>http://phi-fi.com/analysis/billions-showtime/s02/03.optimal-play/</loc>
-  </url>
-  
-  <url>
-    <loc>http://phi-fi.com/</loc>
-    <lastmod>2017-07-28T12:00:00-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

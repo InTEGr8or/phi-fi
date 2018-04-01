@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Season Two (2017) on Phi-Fi</title>
+    <title>Season Two (2017) on </title>
     <link>http://phi-fi.com/analysis/billions-showtime/s02/</link>
-    <description>Recent content in Season Two (2017) on Phi-Fi</description>
+    <description>Recent content in Season Two (2017) on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
-    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
     
 	<atom:link href="http://phi-fi.com/analysis/billions-showtime/s02/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +13,7 @@
       <title>Dead Cat Bounce</title>
       <link>http://phi-fi.com/analysis/billions-showtime/s02/02.dead-cat-bounce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      
       <guid>http://phi-fi.com/analysis/billions-showtime/s02/02.dead-cat-bounce/</guid>
       <description>Bryan Connerty explores the idea of his transition from the public to the private sector.</description>
     </item>
@@ -24,7 +22,7 @@
       <title>Optimal Play</title>
       <link>http://phi-fi.com/analysis/billions-showtime/s02/03.optimal-play/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      
       <guid>http://phi-fi.com/analysis/billions-showtime/s02/03.optimal-play/</guid>
       <description></description>
     </item>
@@ -33,7 +31,7 @@
       <title>Risk Management</title>
       <link>http://phi-fi.com/analysis/billions-showtime/s02/01.risk-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      
       <guid>http://phi-fi.com/analysis/billions-showtime/s02/01.risk-management/</guid>
       <description>Chuck Rhoades is targeted by an internal investigation. He is falsely accused of dropping the case against Bobby Axelrod because his wife received a $5 million severance package on the same day. Of course he does not see any flaw in the investigator, but blames Bobby Axelrod&amp;rsquo;s money, as if it is a viral infection.</description>
     </item>
