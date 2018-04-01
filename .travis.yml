@@ -15,6 +15,5 @@ script:
 
 after_success: 
     - git add .
-    - git status
     - git -c user.name='travis' -c user.email='travis' commit -m "travis build"
     - git push https://${GH_TOKEN}@github.com/integr8or/phi-fi master
