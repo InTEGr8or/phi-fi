@@ -9,6 +9,7 @@ script:
     - git checkout master
     - rm -rf docs
     - hugo
+    - git rm hugo_*
     - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
     - echo $baseURL
     - printf $baseURL > docs/CNAME
