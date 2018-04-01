@@ -15,6 +15,6 @@ script:
     - printf $baseURL > docs/CNAME
 
 after_success: 
-    - git add .
+    - git add --force docs/
     - git -c user.name='travis' -c user.email='travis' commit -m "travis build"
     - git push https://${GH_TOKEN}@github.com/integr8or/phi-fi master
