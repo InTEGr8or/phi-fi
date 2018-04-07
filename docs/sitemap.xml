@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s01/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/09_sic-transit-imperium/</loc>
+    <lastmod>2018-04-05T17:06:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/analysis/billions/s01/</loc>
     <lastmod>2018-03-26T12:00:00-08:00</lastmod>
   </url>
   
@@ -13,12 +18,12 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/meta-phi-fi-introduction-to-phi-fi/</loc>
+    <loc>http://phi-fi.com/podcasts/meta-phi-fi-introduction-to-phi-fi/</loc>
     <lastmod>2017-04-19T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/life-2017/</loc>
+    <loc>http://phi-fi.com/podcasts/life-2017/</loc>
     <lastmod>2017-04-07T12:00:00-08:00</lastmod>
   </url>
   
@@ -38,32 +43,32 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/meta-phi-fi-superpowers/</loc>
+    <loc>http://phi-fi.com/podcasts/meta-phi-fi-superpowers/</loc>
     <lastmod>2016-10-06T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/san-andreas/</loc>
+    <loc>http://phi-fi.com/podcasts/san-andreas/</loc>
     <lastmod>2016-10-05T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/twelve-years-a-slave/</loc>
+    <loc>http://phi-fi.com/podcasts/twelve-years-a-slave/</loc>
     <lastmod>2016-05-30T09:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/jungle-book/</loc>
+    <loc>http://phi-fi.com/podcasts/jungle-book/</loc>
     <lastmod>2016-05-15T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/look-whos-back/</loc>
+    <loc>http://phi-fi.com/podcasts/look-whos-back/</loc>
     <lastmod>2016-05-04T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/chuck-norris-vs-communism/</loc>
+    <loc>http://phi-fi.com/podcasts/chuck-norris-vs-communism/</loc>
     <lastmod>2016-04-24T16:00:00-08:00</lastmod>
   </url>
   
@@ -97,7 +102,7 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/</loc>
+    <loc>http://phi-fi.com/analysis/billions/</loc>
   </url>
   
   <url>
@@ -119,7 +124,7 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s02/02.dead-cat-bounce/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/02.dead-cat-bounce/</loc>
   </url>
   
   <url>
@@ -163,7 +168,7 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s02/06-indian-four/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/06-indian-four/</loc>
   </url>
   
   <url>
@@ -173,7 +178,7 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s01/11-magical-thinking/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s01/11-magical-thinking/</loc>
   </url>
   
   <url>
@@ -200,13 +205,17 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s02/03.optimal-play/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/03.optimal-play/</loc>
   </url>
   
   <url>
     <loc>http://phi-fi.com/</loc>
-    <lastmod>2017-07-28T12:00:00-08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-04-05T17:06:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/podcasts/</loc>
+    <lastmod>2017-04-19T12:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -234,11 +243,12 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s02/01.risk-management/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/01.risk-management/</loc>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s02/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/</loc>
+    <lastmod>2018-04-05T17:06:36-07:00</lastmod>
   </url>
   
   <url>
@@ -277,11 +287,11 @@
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s01/12-the-conversation/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s01/12-the-conversation/</loc>
   </url>
   
   <url>
-    <loc>http://phi-fi.com/analysis/billions-showtime/s02/04-the-oath/</loc>
+    <loc>http://phi-fi.com/analysis/billions/s02/04-the-oath/</loc>
   </url>
   
   <url>
