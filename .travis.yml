@@ -14,8 +14,8 @@ script:
     # -   then msg="$1"
     # - fi
     - git commit -m "$msg"
-    - git pull
-    - git push
+    - git pull origin master
+    - git push origin master
       # return to parent folder
     - cd ..
     - rm -rf docs
