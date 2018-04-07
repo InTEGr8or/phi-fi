@@ -7,17 +7,7 @@ install:
 
 script:
     - git checkout master
-    - cd layouts
-    - git pull origin master
-    - git add .
-    - msg="rebuilding site `date`"
-    # - if [ $# -eq 1 ]
-    # -   then msg="$1"
-    # - fi
-    - git commit -m "$msg"
-    - git push origin master
-      # return to parent folder
-    - cd ..
+
     - rm -rf docs
     - hugo
     - rm -r hugo_0*.deb
