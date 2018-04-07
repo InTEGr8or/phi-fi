@@ -4,7 +4,7 @@
 #!/bin/bash
 #*
 # rm -rf public
-# git submodule add -b master git@github.com:InTEGr8or/hugo_blackplain_theme.git layouts
+# git submodule add -b master url = https://github.com/InTEGr8or/hugo_blackplain_theme.git layouts
 # git clone https://gist.github.com/aad5b14b17276e803d352898a6c88c5b.git tmp
 # mv hugo_deploy.sh .
 # rm -rf tmp/
