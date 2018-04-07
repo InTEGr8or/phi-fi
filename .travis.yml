@@ -7,6 +7,13 @@ install:
 
 script:
     - git checkout master
+    - cd layouts
+    - git add .
+    - git commit -m "$msg"
+    - git pull
+    - git push
+      # return to parent folder
+    - cd ..
     - rm -rf docs
     - hugo
     - rm -r hugo_0*.deb
@@ -16,5 +23,5 @@ script:
 
 after_success: 
     - git add --force docs/
-    - git -c user.name='travis' -c user.email='travis' commit -m "travis build"
+    - git -c user.name='travis' -c user.email='travis' commit -m "travis build `date`"
     - git push https://${GH_TOKEN}@github.com/integr8or/phi-fi master
