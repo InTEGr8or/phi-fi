@@ -1,5 +1,7 @@
 ---
 title: Get Out (2017)
+draft: true
+date: 2018-04-08
 description: Race relations and self-ownership are explored in a new light.
 image: "/images/Get Out4.png"
 ---
