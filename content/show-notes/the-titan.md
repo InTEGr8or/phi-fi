@@ -1,7 +1,7 @@
 ---
 title: The Titan
 studio: Netflix
-date: 2018-04-08
+date: 2018-04-08T12:00:00-08:00
 draft: false
 year: 2018
 image: /images/thetitan-samworthington-bald-underwater-700x306.jpg
