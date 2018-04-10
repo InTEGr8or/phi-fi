@@ -18,6 +18,17 @@ versus:
         Bobby Axelrod represents the struggle within the voluntary system of capitalist production.
     Rhoades: >
         Chuck Rhoades represents social control by political pull. In this system all wealth is taken as a given and the question is merely how to equitably distribute it.
+Genre:	Drama
+Created by:	
+  - Brian Koppelman
+  - David Levien
+  - Andrew Ross Sorkin
+Production:
+  - Executive producer(s)	
+  - Brian Koppelman
+  - David Levien
+  - Andrew Ross Sorkin
+  - Neil Burger
 ---
 The series explores one of the most controversial issues of our time: "inequality", aka: wealth.
 
