@@ -8,10 +8,10 @@ install:
 script:
     - git checkout master
     - cd layouts
-    - git pull origin master
+    - git pull 
     - git add .
-    - git commit -m "updates from travis"
-    - git push origin master
+    - git commit -m "updates from travis `date`"
+    - git push 
     - cd ..
     - rm -rf docs
     - hugo
