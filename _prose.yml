@@ -1,4 +1,6 @@
 
 prose:
   metadata: 
-    title: true
+    field:
+      element: "text"
+      name: "title"
