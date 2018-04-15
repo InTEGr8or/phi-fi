@@ -9,8 +9,7 @@ characters:
   - Cornelius Hickey: Adam Nagaitis 
   - Thomas Blankly: Ian Hart 
   - Lady Silence: Nive Nielsen 
-  - Captain Sir John Franklin: Ciarán Hinds 
-    - ![](2018-04-11-15-50-32.png)
+  - Captain Sir John Franklin: "Ciarán Hinds" 
 ---
 ![](2018-04-11-15-53-37.png)
 CPN CROZIER:
