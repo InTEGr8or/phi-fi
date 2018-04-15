@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Versus on </title>
+    <title>Versus on Phi-Fi</title>
     <link>http://phi-fi.com/versus/</link>
-    <description>Recent content in Versus on </description>
+    <description>Recent content in Versus on Phi-Fi</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
+    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
     <lastBuildDate>Mon, 06 Feb 2017 12:00:00 -0800</lastBuildDate>
     
 	<atom:link href="http://phi-fi.com/versus/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Westworld vs Arrival</title>
       <link>http://phi-fi.com/versus/westworld-vs-arrival/</link>
       <pubDate>Mon, 06 Feb 2017 12:00:00 -0800</pubDate>
-      
+      <author>mark@thefullertonian.com (Mark Stouffer)</author>
       <guid>http://phi-fi.com/versus/westworld-vs-arrival/</guid>
       <description>&lt;p&gt;Two very popular shows provide counterpoints for two differing world-views. Few reviews of these films take the film&#39;s philosophical ideas seriously. They describe them like a clever puzzle or they simply help you consider that those ideas might be true. Here on Phi-Fi we want you to also ask &amp;quot;and then, what?&amp;quot; We want to look more closely at the philosophical ideas and then judge the belief system that would result. We are going to investigate how these different world-views directly conflict and contradict, and how those contradictions can lead to conflicts in the real world.&lt;/p&gt;
 

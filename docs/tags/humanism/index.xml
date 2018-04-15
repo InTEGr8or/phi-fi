@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humanism on </title>
+    <title>Humanism on Phi-Fi</title>
     <link>http://phi-fi.com/tags/humanism/</link>
-    <description>Recent content in Humanism on </description>
+    <description>Recent content in Humanism on Phi-Fi</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
+    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
     <lastBuildDate>Fri, 07 Apr 2017 12:00:00 -0800</lastBuildDate>
     
 	<atom:link href="http://phi-fi.com/tags/humanism/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Life (2017)</title>
       <link>http://phi-fi.com/podcasts/life-2017/</link>
       <pubDate>Fri, 07 Apr 2017 12:00:00 -0800</pubDate>
-      
+      <author>mark@thefullertonian.com (Mark Stouffer)</author>
       <guid>http://phi-fi.com/podcasts/life-2017/</guid>
       <description>Written by Paul Wernick and Rhett Reese, Life is a film exploring the concept of man’s first encounter with life beyond earth. A group of multi-national scientists work to identify traits of a new alien life form aboard the International Space Station. Security becomes compromised during observation, and a death match between the species ensues as they compete to adapt or perish. Who are YOU rooting for?</description>
     </item>
