@@ -9,5 +9,5 @@ amazon_url: "https://smile.amazon.com/Unknown-The-Deep-Dark-Descending/dp/B075RB
 ---
 Plot: A Minneapolis detective pursues the men, or was recently revealed, killed his wife five years before.
 
-The author uses an immediate introduction to the crisis, and reflection to memories of the preceding events to tell the story of a killing of vengeance, to great effect. 
+The author uses an immediate introduction to the crisis, and reflection to memories of the preceding events to tell the story of a killing of vengeance, to great effect.
 
