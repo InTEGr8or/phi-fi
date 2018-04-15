@@ -1,0 +1,6 @@
+
+prose:
+  metadata: 
+    field:
+      element: "text"
+      name: "title"
