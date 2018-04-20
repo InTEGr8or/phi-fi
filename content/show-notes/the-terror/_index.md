@@ -1,16 +1,21 @@
 ---
 title: The Terror
-date: 2018-04-11T15:30:00-08:00
+date: {}
 studio: AMC
 characters:
   - Captain Francis Crozier: Jared Harris
   - Commander James Fitzjames: Tobias Menzies
-  - Dr. Henry Goodsir: Paul Ready 
-  - Cornelius Hickey: Adam Nagaitis 
-  - Thomas Blankly: Ian Hart 
-  - Lady Silence: Nive Nielsen 
-  - Captain Sir John Franklin: "Ciarán Hinds" 
+  - Dr. Henry Goodsir: Paul Ready
+  - Cornelius Hickey: Adam Nagaitis
+  - Thomas Blankly: Ian Hart
+  - Lady Silence: Nive Nielsen
+  - Captain Sir John Franklin: Ciarán Hinds
+published: true
 ---
+Set mostly in the frozen arctic, this show's chilling storyline matches the isolated white scenery. The climate is inhospitable and, as captain Crozier claims, even seems malevolent.
+
+## 01 Go For Broke
+
 ![](2018-04-11-15-53-37.png)
 CPN CROZIER:
 In this place technology still bends the knee to luck, James.
@@ -28,4 +33,4 @@ We are separated here from the temptations of the world, at sea, a man can find 
 
 God sees you Mr. Hickey, here more than anywhere.
 
-  
+
