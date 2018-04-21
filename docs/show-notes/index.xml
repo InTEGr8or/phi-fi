@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Show Notes on </title>
+    <title>Show Notes on Phi-Fi</title>
     <link>http://phi-fi.com/show-notes/</link>
-    <description>Recent content in Show Notes on </description>
+    <description>Recent content in Show Notes on Phi-Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
+    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Sun, 08 Apr 2018 12:00:00 -0800</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>The Titan</title>
       <link>http://phi-fi.com/show-notes/the-titan/</link>
       <pubDate>Sun, 08 Apr 2018 12:00:00 -0800</pubDate>
-      
+      <author>mark@thefullertonian.com (Mark Stouffer)</author>
       <guid>http://phi-fi.com/show-notes/the-titan/</guid>
       <description>A technologically competent production, this film explores the moral issues of a mission to save humanity by creating a super-being.
 Plot In the near future the Earth is reaching it&amp;rsquo;s oft-reported demise and becoming uninhabitable to humans. So the geniuses at military headquarters decide it will be able to modify humans so that they can live on the much-less-habitable moon of Saturn, and then transport them there.

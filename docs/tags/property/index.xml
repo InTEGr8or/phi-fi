@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Property on </title>
+    <title>Property on Phi-Fi</title>
     <link>http://phi-fi.com/tags/property/</link>
-    <description>Recent content in Property on </description>
+    <description>Recent content in Property on Phi-Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
+    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Mon, 30 May 2016 09:00:00 -0800</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>Twelve Years a Slave</title>
       <link>http://phi-fi.com/podcasts/twelve-years-a-slave/</link>
       <pubDate>Mon, 30 May 2016 09:00:00 -0800</pubDate>
-      
+      <author>mark@thefullertonian.com (Mark Stouffer)</author>
       <guid>http://phi-fi.com/podcasts/twelve-years-a-slave/</guid>
       <description>12 Years a Slave (2013) R | 2h 14min | Biography, Drama, History | 8 November 2013 (USA) IMDb
 Today we discuss the 2013 Oscar-winning film &amp;ldquo;12 Years a Slave&amp;rdquo;. We&amp;rsquo;re going to talk about - Judging the law - Exploring how slaves are deprived of identity, rights and humanity - And the consequences for the society that permits it.
@@ -27,7 +29,7 @@ The Making of a Slave It takes coordinated and systematic work to break down an 
       <title>Chuck Norris vs Communism (Review)</title>
       <link>http://phi-fi.com/podcasts/chuck-norris-vs-communism/</link>
       <pubDate>Sun, 24 Apr 2016 16:00:00 -0800</pubDate>
-      
+      <author>mark@thefullertonian.com (Mark Stouffer)</author>
       <guid>http://phi-fi.com/podcasts/chuck-norris-vs-communism/</guid>
       <description>&lt;p&gt;Film: Chuck Norris vs Communism (2015)
 1h 18min | Documentary, Comedy, History | 12 November 2015 (Germany)
