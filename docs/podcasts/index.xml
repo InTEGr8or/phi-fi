@@ -3,7 +3,7 @@
   <channel>
     <title>Podcasts on </title>
     <link>http://phi-fi.com/podcasts/</link>
-    <itunes:image href="/images/Phi-Fi-Island.png" />
+    <itunes:image href="http://phi-fi.com/images/Phi-Fi-Island.png" />
     <itunes:category text="Philosophy"/>
     <itunes:category text="TV &amp; Film"/>
     <description>Recent content in Podcasts on </description>

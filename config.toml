@@ -20,7 +20,7 @@ googleAnalytics = "UA-115076488-1"
   auzureAudioURL = "https:phifi.blob.core.windows.net/podcasts/"
   bbURL = "https://media.blubrry.com/phi_fi/p/phifi.blob.core.windows.net/podcasts/"
   githubURL = "https://github.com/InTEGr8or/phi-fi"
-  podcastImage = "/images/Phi-Fi-Island.png"
+  podcastImage = "http://phi-fi.com/images/Phi-Fi-Island.png"
   favicon = "/images/cropped-Phi-Fi-Island-300x300.png"
   # Date format
   #dateFormat = "January 2, 2006"
