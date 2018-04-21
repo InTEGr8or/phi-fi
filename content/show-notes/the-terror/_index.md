@@ -1,6 +1,6 @@
 ---
 title: The Terror
-date: {}
+date: 2018-04-11
 studio: AMC
 characters:
   - Captain Francis Crozier: Jared Harris

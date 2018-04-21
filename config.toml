@@ -1,6 +1,7 @@
 theme = "whiteplain"
 baseURL = "http://phi-fi.com"
-languageCod = "en-us"
+languageCode = "en-us"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 topics = ["News", "Reviews", "Critic"]
 
 MetaDataFormat = "yaml"
@@ -19,10 +20,12 @@ googleAnalytics = "UA-115076488-1"
   auzureAudioURL = "https:phifi.blob.core.windows.net/podcasts/"
   bbURL = "https://media.blubrry.com/phi_fi/p/phifi.blob.core.windows.net/podcasts/"
   githubURL = "https://github.com/InTEGr8or/phi-fi"
+  podcastImage = "/images/Phi-Fi-Island.png"
   favicon = "/images/cropped-Phi-Fi-Island-300x300.png"
   # Date format
   #dateFormat = "January 2, 2006"
-
+[author]
+  name = "Mark Stouffer"
 # This is displayer in About page.
 [params.author]
   name = "Mark Stouffer"
