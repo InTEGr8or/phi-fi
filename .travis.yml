@@ -7,14 +7,7 @@ install:
 
 script:
     - git checkout master
-    # - cd layouts
-    # - git pull 
-    # - git add .
-    # - git commit -m "updates from travis `date`"
-    # - git push 
-    # - cd ..
     - rm -rf docs
-    - cat layouts/podcasts/list.xml
     - hugo
     - rm -r hugo_0*.deb
     - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")

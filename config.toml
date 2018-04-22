@@ -26,6 +26,7 @@ googleAnalytics = "UA-115076488-1"
   #dateFormat = "January 2, 2006"
 [author]
   name = "Mark Stouffer"
+  email = "mark@thefullertonian.com"
 # This is displayer in About page.
 [params.author]
   name = "Mark Stouffer"
