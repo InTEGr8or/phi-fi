@@ -18,5 +18,5 @@ after_success:
     - git add --force docs/
     - git -c user.name='travis' -c user.email='travis' commit -m "travis build `date`"
     - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}'
-    - ${githubURL/https:*g/https://$GH_TOKEN@g}
+    - echo ${githubURL/https:*g/https://$GH_TOKEN@g}
     - git push ${githubURL/https:*g/https://$GH_TOKEN@g} master

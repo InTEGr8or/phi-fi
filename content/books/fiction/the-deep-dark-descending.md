@@ -7,8 +7,14 @@ subject_author: Allen Eskens
 description: A new theory of justice.
 amazon_url: "https://smile.amazon.com/Unknown-The-Deep-Dark-Descending/dp/B075RBSRT6/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=&dpID=516ZGFwk%252BIL&preST=_SX342_QL70_&dpSrc=detail"
 ---
+
 Plot: A Minneapolis detective pursues the men, or was recently revealed, killed his wife five years before.
+
+{{< amazon_iframe_deep_dark >}}
 
 The author uses an immediate introduction to the crisis, and reflection to memories of the preceding events to tell the story of a killing of vengeance, to great effect.
 
+
 The story is about the killing of the last victim, and the justice of that killing, within the context of the story. That's why the story starts and ends with that killing. 
+
+
