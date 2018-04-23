@@ -14,7 +14,4 @@ Plot: A Minneapolis detective pursues the men, or was recently revealed, killed 
 
 The author uses an immediate introduction to the crisis, and reflection to memories of the preceding events to tell the story of a killing of vengeance, to great effect.
 
-
-The story is about the killing of the last victim, and the justice of that killing, within the context of the story. That's why the story starts and ends with that killing. 
-
-
+The story is about the killing of the last victim, and the justice of that killing, within the context of the story. That's why the story starts and ends with that killing.
