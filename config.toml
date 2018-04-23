@@ -22,6 +22,7 @@ googleAnalytics = "UA-115076488-1"
   githubPath = "https://github.com/InTEGr8or/phi-fi"
   podcastImage = "http://phi-fi.com/images/Phi-Fi-Island.png"
   favicon = "/images/cropped-Phi-Fi-Island-300x300.png"
+  logo = "cropped-Phi-Fi-Island-150x150"
   # Date format
   #dateFormat = "January 2, 2006"
 [author]

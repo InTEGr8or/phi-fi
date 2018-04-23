@@ -10,7 +10,16 @@ article h1 {
 article h2.article-title {
 	color: rgb(130, 160, 255);
 }
-
+.site-navi .row {
+	padding: 0px;
+	margin: 0px;
+	right: absolute;
+}
+.site-navi .title-col {
+	padding: 0px;
+	margin: 0px;
+	/* background: no-repeat url(/images/cropped-Phi-Fi-Island-150x150.png) 0 0; */
+}
 a {
 	color: lightskyblue;
 }
