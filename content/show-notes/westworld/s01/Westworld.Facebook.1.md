@@ -1,0 +1,5 @@
+>You think I haven't thought for a while already? And you have, and what you've come up with is that all the differences in the world are because of an entities whim? 
+
+>Have you ever educated children? Even for a day? And do you say to one, "ah, he has given you the gift of writing!" And to the other "oh, sorry to say he has not given you the gift. There is nothing for us to do. You don't have what it takes." 
+
+>See, I think maybe you have thought about this a lot, but you've made a mistake. I think your understanding is based on, or built up on, something underneath. A more basic idea. That fundamental idea is not put there by some bicameral voice that speaks into your head. It's put there by you, Long Shih Rome. But that doesn't make it a magical infallible idea. It just means that it is a potent and life altering idea that you need to take ownership of while you are alive.
