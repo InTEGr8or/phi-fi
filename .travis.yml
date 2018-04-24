@@ -19,5 +19,6 @@ after_success:
     - git -c user.name='travis' -c user.email='travis' commit -m "travis build `date`"
     - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}')
     - echo $githubURL
-    - echo ${githubURL/https:*g/https://$GH_TOKEN@g}
-    - git push ${githubURL/https:*g/https://$GH_TOKEN@g} master
+    - pushPath=${githubURL/https:*github.com/https://$GH_TOKEN@github.com}
+    - echo $pushPath
+    - git push $pushPath master
