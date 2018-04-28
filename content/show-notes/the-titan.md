@@ -6,9 +6,9 @@ draft: false
 year: 2018
 image: /images/thetitan-samworthington-bald-underwater-700x306.jpg
 characters:
-  "Lt. Rick Janssen": "Sam Worthington"
-  "Dr. Abi Janssen": Taylor Schilling
-  "Prof. Martin Collingwood": Tom Wilkinson
+  - Lt. Rick Janssen: Sam Worthington
+  - Dr. Abi Janssen: Taylor Schilling
+  - Prof. Martin Collingwood: Tom Wilkinson
 ---
 
 A technologically competent production, this film explores the moral issues of a mission to save humanity by creating a super-being.

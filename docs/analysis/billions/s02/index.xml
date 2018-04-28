@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Season Two (2017) on Phi-Fi</title>
+    <title>Season Two (2017) on </title>
     <link>http://phi-fi.com/analysis/billions/s02/</link>
-    <description>Recent content in Season Two (2017) on Phi-Fi</description>
+    <description>Recent content in Season Two (2017) on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
     <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
-    <lastBuildDate>Thu, 05 Apr 2018 17:06:36 -0700</lastBuildDate>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://phi-fi.com/analysis/billions/s02/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golden Frog Time</title>
+      <link>http://phi-fi.com/analysis/billions/s02/11-golden-frog-time/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      <author>mark@thefullertonian.com (Mark Stouffer)</author>
+      <guid>http://phi-fi.com/analysis/billions/s02/11-golden-frog-time/</guid>
+      <description>47:40 You&amp;rsquo;ll never think about it again. You&amp;rsquo;ll just glide along&amp;hellip; We never usee the words we mean, like soul.
+TAYLOR: I don&amp;rsquo;t believe in the soul what I do believe in are actions, purpose, purity of vocation.</description>
+    </item>
     
     <item>
       <title>Sic Transit Imperium</title>

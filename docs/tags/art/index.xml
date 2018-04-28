@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on Phi-Fi</title>
+    <title>Art on </title>
     <link>http://phi-fi.com/tags/art/</link>
-    <description>Recent content in Art on Phi-Fi</description>
+    <description>Recent content in Art on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
     <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Sun, 24 Apr 2016 16:00:00 -0800</lastBuildDate>
     
 	<atom:link href="http://phi-fi.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
