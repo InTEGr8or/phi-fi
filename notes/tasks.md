@@ -7,6 +7,7 @@
 	* [X] ~~*https://integr8or.github.io/phi-fi-audio/Life_2017.5.mp3*~~ [2018-03-31]
 * [X] ~~*Get layouts/ submodule working and updating to separate repo.*~~ [2018-03-31]
 * [ ] Verify podcast feed with pocket-casts
+	- [Feed requirements - Blubrry Podcasting - Podcast Hosting, Statistics, WordPress Hosting, Syndication Tools and Directory](https://create.blubrry.com/resources/blubrry-podcast-directory/feed-requirements/)
 	* [ ] was at `http://phi-fi.com/feed/podcast/`
 	* [ ] current rss at `http://phi-fi.com/index.xml`
 * [ ] Verify podcast feed with iTunes.
