@@ -17,7 +17,7 @@ characters:
   - Boady Sanden: Defense attorney
 ---
 
-Plot: A Minneapolis detective pursues the men, or was recently revealed, killed his wife five years before.
+Plot: A Minneapolis detective pursues the men who, it was recently revealed, killed his wife five years before.
 
 {{< amazon_iframe_deep_dark >}}
 
