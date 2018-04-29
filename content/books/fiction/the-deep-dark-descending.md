@@ -17,7 +17,9 @@ characters:
   - Boady Sanden: Defense attorney
 ---
 
-Plot: A Minneapolis detective pursues the men who, it was recently revealed, killed his wife five years before.
+## Plot 
+
+A Minneapolis detective pursues the men who, it was recently revealed, killed his wife five years before.
 
 {{< amazon_iframe_deep_dark >}}
 
@@ -25,9 +27,13 @@ The author uses an immediate introduction to the crisis, and reflection to memor
 
 The story is about the killing of the last murderer, and the justice of that killing, within the context of the story. That's why the story starts and ends with that killing.
 
-**SPOILER ALERT** The following section is for people who have read the book and are looking for a deeper discussion about what happened in the story as a story.
+## _SPOILER ALERT!_
+
+The following section is for people who have read the book and are looking for a deeper discussion about what happened in the story as a story.
 
 Max Rupert is given a tip by someone who he didn't like, and who didn't really like him. When Boady Sanden gives Max a file containing the voices of the people who planned Jenni's murder it is not because the two men are on the same team, of any kind. It is because they agree on one single principle: Justice, and the injustice of murder.
+
+## Justice is Personal
 
 It is good to see such a clear distiction of a principle at a time when the cultural focus is on the vague concept if imporsonal "social justice".
 
@@ -41,6 +47,10 @@ It is good to clarify these points at times when there is such confusion, and Ma
 Eskens plants the voice of conscience in Max's head as his father's girlfriend, someone he hasn't seen or thought of in many years, but whose voice comes now unbidden to question and ask him to clarify his plans, but Max does take her unexpected interference to be a voice from beyond guiding him infalibly towards the light, like some inspiration of _given_ understanding (something we discuss at length in the _Superpowers_ podcast). 
 
 Max remembers Nancy and reflects upon why he trusted her when he was a child and she was an adult, and why he trusted her compared to other adults at the time, but he carefully and respectfully translates her ethical teachings, her voice, into his adult life.
+
+## Justice is Practical
+
+Justice is not always easy or simple. But it is practical. The books makes the case that Max's act of vengance fulfilled a deficiency in his understanding of how society and life among others works.
 
 > "Will I ever see you again?"
 > "I don't know." I'm pretty sure I'm lying to her.
