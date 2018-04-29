@@ -1,7 +1,13 @@
 ---
 title: Dead Hand
 ---
-Paige is involved
+Philip is running the business and living the American family life with a new car with a pull-out stereo, car phone and retractable sun roof.
+
+Elizabeth is running operations. There is a division between them.
+
+Philip is becoming more of an entrepreneur. He is teaching selling, and he is good at it.
+
+Paige is involved in the Directorate S operations.
 
 Oleg comes to America and meets Philip. He informs him about he changes and conflict in the USSR.
 
