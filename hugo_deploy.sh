@@ -26,14 +26,14 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-# Go To layouts/ 
-cd layouts
+cd themes/blackplain
 git add .
 git commit -m "$msg"
 git pull
 git push
 # return to parent folder
-cd ..
+cd ../..
+git add themes/blackplain
 
 # Add changes to git.
 git add .
