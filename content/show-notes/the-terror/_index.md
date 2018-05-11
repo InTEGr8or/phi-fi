@@ -34,3 +34,5 @@ We are separated here from the temptations of the world, at sea, a man can find 
 God sees you Mr. Hickey, here more than anywhere.
 
 
+## 08 Terror Camp Clear
+
