@@ -57,5 +57,3 @@ Justice is not always easy or simple. But it is practical. The books makes the c
 > "Are you...content?"
 > "Content?"
 > I know what she is asking. She wants to know if I tracked down Jenni's killer. She wants to know if I found a way to put to rest those ghosts that have been haunting me for the past four and a have years. "Yes," I say. "I am content."
-
-
