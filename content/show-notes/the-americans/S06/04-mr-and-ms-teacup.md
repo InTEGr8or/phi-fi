@@ -28,7 +28,7 @@ Maybe we need to renegotiate our deal.
 
 It was like when he renegotiated the deal with the school about his son's tuition.
 
-Oleg Burrov talks to his father about his mother, and then goes on to talk about improving business processes and logistics. He describes it and then says he can send him an algorithm.
+Oleg Burov talks to his father about his mother, and then goes on to talk about improving business processes and logistics. He describes it and then says he can send him an algorithm.
 
 Philip has to break the news to Hengry that they might not be able to afford tuition
 
