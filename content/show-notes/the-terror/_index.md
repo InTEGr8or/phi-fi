@@ -35,4 +35,3 @@ God sees you Mr. Hickey, here more than anywhere.
 
 
 ## 08 Terror Camp Clear
-
