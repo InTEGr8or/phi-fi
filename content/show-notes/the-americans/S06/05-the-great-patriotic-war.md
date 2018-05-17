@@ -1,5 +1,5 @@
 ---
-title: The Great Patriotic Ware
+title: The Great Patriotic War
 episode: 05
 date: 2018-05-16
 ---
