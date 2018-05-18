@@ -9,8 +9,6 @@ Elizabeth is tracking Beaman with a team.
 
 They introduce Paige to the Great Patriotic War and tell her how much they lost, how many Russians died.
 
-
-
 McArthur clarified, "You don't win a war by dying for your country. You win by making the other bastard die for his."
 
 The Americans supplied 20% of the Soviet economy.
