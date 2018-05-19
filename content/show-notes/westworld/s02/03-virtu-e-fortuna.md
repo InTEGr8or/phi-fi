@@ -18,5 +18,5 @@ This one simple scene reveals some of the logical mechanism of Westworld's code.
 DELORES: 23:26
 You don't know who you are, do you. The man you're based on. I wonder if there's anything in you. My whole life has been dictated by someone else, someone who's been saying "you will". Now, now I feel like I've discovered my own voice, and it says "I may".
 
-![You don't know who you are, do you?](2018-05-19-12-40-34.png)
+![You don't know who you are, do you?](../2018-05-19-12-40-34.png)
 
