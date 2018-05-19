@@ -1,5 +1,7 @@
 ---
 title: Harvest
+episode: 07
+draft: false
 date: 2018-05-17
 ---
 Philip has to break the news that he is heading to "Houston" (Chicago). He tells Beaman and has to tell Henry.

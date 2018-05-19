@@ -1,6 +1,7 @@
 ---
 title: The Great Patriotic War
 episode: 05
+draft: false
 date: 2018-05-16
 ---
 Mrs. Teacup starts thinking that if her and Genady were in Oklahoma, and if Stan was his freind (maybe keeping him from beating her) things would work out.

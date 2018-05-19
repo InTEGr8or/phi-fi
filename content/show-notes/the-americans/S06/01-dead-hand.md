@@ -1,5 +1,6 @@
 ---
 title: Dead Hand
+draft: false
 ---
 Philip is running the business and living the American family life with a new car with a pull-out stereo, car phone and retractable sun roof.
 

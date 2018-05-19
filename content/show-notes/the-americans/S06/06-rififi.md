@@ -1,6 +1,8 @@
 ---
 title: Rififi
 date: 2018-05-16
+draft: false
+episode: 06
 ---
 Philip confronts Elizabeth about the murder of Mr. and Mrs. Teacup, He says he warned Kimmy not to go to a communist country.
 
