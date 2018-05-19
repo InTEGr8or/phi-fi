@@ -1,6 +1,7 @@
 ---
 title: The Riddle of the Sphynx
 date: 2018-05-20
+episode: 04
 draft: false
 ---
 Playing with Fire: The Rolling Stones
@@ -35,5 +36,5 @@ Mr. Delos becomes a cutter.
 DELOS:
 I'm all the way down now. You want to see what I see.
 
-![](2018-05-19-14-36-37.png)
+![](../2018-05-19-14-36-37.png)
 

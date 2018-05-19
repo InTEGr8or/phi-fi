@@ -16,7 +16,7 @@ What is real?
 BERNARD:
 That which is irreplaceable
 
-![](2018-04-22-20-15-53.png)
+![](../2018-04-22-20-15-53.png)
 
 DELORES
 (Looking reflective)

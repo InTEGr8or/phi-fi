@@ -23,9 +23,9 @@ Your not really a bandit.
 
 Now, for the first time, you've go yourself a real revolution. But there's a catch...
 
-Do you beleive in god, Lawrence? If you did you'd believe that everything you did was being watched by some unseeing immortal eye.
+Do you believe in god, Lawrence? If you did you'd believe that everything you did was being watched by some unseeing immortal eye.
 
-It's just some vfairytale to get people to pay their taxes and not take a machete to their neighbors.
+It's just some fairytale to get people to pay their taxes and not take a machete to their neighbors.
 
 
 That's why this place exists. They wanted a place hidden from god. IA plce they could sin in peace, but we were watching them. Of cource judgement wasn't the point. We had something else in mind. I'm goint to appeal my judgement, then I'm going to burn this whole place down.
