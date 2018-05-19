@@ -1,6 +1,7 @@
 ---
 title: Reunion
 date: 2018-04-30
+draft: false
 episode: 2
 ---
 DELORES:

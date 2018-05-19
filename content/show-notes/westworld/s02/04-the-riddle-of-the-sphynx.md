@@ -1,6 +1,7 @@
 ---
 title: The Riddle of the Sphynx
 date: 2018-05-20
+draft: false
 ---
 Playing with Fire: The Rolling Stones
 
