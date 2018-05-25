@@ -16,7 +16,7 @@ Set mostly in the frozen arctic, this show's chilling storyline matches the isol
 
 ## 01 Go For Broke
 
-![](2018-04-11-15-53-37.png)
+![](../2018-04-11-15-53-37.png)
 CPN CROZIER:
 In this place technology still bends the knee to luck, James.
 

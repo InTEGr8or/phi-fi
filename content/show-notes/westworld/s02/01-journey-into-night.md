@@ -1,6 +1,7 @@
 ---
 title: Journey Into Night
 date: 2018-04-22
+draft: false
 description: Watching the first episode after the massacre.
 ---
 DELORES:
@@ -15,7 +16,7 @@ What is real?
 BERNARD:
 That which is irreplaceable
 
-![](2018-04-22-20-15-53.png)
+![](../2018-04-22-20-15-53.png)
 
 DELORES
 (Looking reflective)
