@@ -7,10 +7,10 @@ image: /images/sketch1486099695433.png
 Two very popular shows provide counterpoints for two differing world-views. Few reviews of these films take the film's philosophical ideas seriously. They describe them like a clever puzzle or they simply help you consider that those ideas might be true. Here on Phi-Fi we want you to also ask "and then, what?" We want to look more closely at the philosophical ideas and then judge the belief system that would result. We are going to investigate how these different world-views directly conflict and contradict, and how those contradictions can lead to conflicts in the real world.
 <!--more-->
 
-<h2 id="the-difference">The Difference</h2> 
+## The Difference
 
 The worlds that _Arrival_ and _Westworld_ portray for us are not entirely the same. If we look closely enough at them and compare their basic nature, such as how time works in them, we would find that the ideals the main characters display, and the goals they achieve, have some significant conflicts. What are those conflicts and what do they tell us?
- 
+
 The biggest difference between Westworld and _Arrival_ centers around the existence of free will. In _Westworld_ Delores struggles to find a sense of agency, or sense of control, over the world she lives in, which is illustrated by the very first conversation in the show, the voiceover between her and Arnold.
 
 <div class="position">
@@ -59,7 +59,7 @@ But what if she was only programmed to say what would happen in the future? What
 
 In Westworld such a pre-programmed sense of urgency is the very picture of the trapped horror and psychological enslavement that the entire series rails against and that Delores struggles valiantly to overcome.
 
-<h2 id="the-dilemma-of-determinism-in-westworld">The Dilemma of Determinism in _Westworld_
+## The Dilemma of Determinism in _Westworld_
 
 <div class="opposition">
 
@@ -83,7 +83,7 @@ One of the most exquisite displays of the problem of determinism involves Delore
 
 </div>
 
-<h2 id="when-are-we">When Are We
+## When Are We
 
 One of the fundamental features of the question of free will vs. determinism is the feature of the passage of time. Free will means that a person can make choices and take actions that will affect subsequent conditions. By subsequent we mean that the actions occur within a sequence, and that they occur after the prior actions in the sequence. This is the temporal order. Prior actions affect subsequent conditions, and not the other way around.
 
@@ -119,7 +119,7 @@ In Arrival's "Book of Ages" no deviation can ever happen. The book was written l
 
 That means that there could never be a single deviation of even the slightest amount in the predetermined mechanized world of _Arrival_, a world much colder and lifeless than any man-made _Westworld_
 
-<h2 id="what-is-at-stake">What Is At Stake
+## What Is At Stake
 
 A predetermined world-view places all choices outside the self. It gives people an external frame of reference for all occurrences in their life.
 

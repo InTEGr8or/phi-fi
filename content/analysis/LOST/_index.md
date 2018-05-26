@@ -15,3 +15,7 @@ There are many other types of stories that have other fixations, or center point
 
 In LOST, however, the center point is an island, the archetype of a center point itself. The island, in this case, represents the center point at the heart of all stories, all narratives.
 
+> Series that start with eye-opening:
+>   - The Good Place
+>   - The Event
+>   - Quantico
