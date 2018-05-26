@@ -1,6 +1,7 @@
 ---
 title: Journey Into Night
 date: 2018-04-22
+episode: 01
 draft: false
 description: Watching the first episode after the massacre.
 ---

@@ -2,7 +2,7 @@
 title: Reunion
 date: 2018-04-30
 draft: false
-episode: 2
+episode: 02
 ---
 DELORES:
 Maybe they don't have the courage. A strange new light can be as frightening as the dark.

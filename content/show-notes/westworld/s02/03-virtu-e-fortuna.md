@@ -1,5 +1,6 @@
 ---
 title: Virtu e Fortuna
+episode: 03
 draft: false
 ---
 
