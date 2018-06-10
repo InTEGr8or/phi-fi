@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="Gradient1">
+      <stop offset="10%" stop-color="hsla(213, 51%, 42%, 1)"/>
+      <stop offset="100%" stop-color="hsla(53, 100%, 46%, 1)"/>
+      <stop offset="100%" stop-color="hsla(0, 100%, 40%, 1)"/>
+      <stop offset="100%" stop-color="hsla(0, 100%, 40%, 1)"/>
+    </linearGradient>
+    <linearGradient id="Gradient2">
+      <stop offset="10%" stop-color="hsla(213, 51%, 42%, 1)"/>
+      <stop offset="100%" stop-color="hsla(53, 100%, 46%, 1)"/>
+    </linearGradient>
+  </defs>
+  <circle/>
+  <rect height="78" width="92" x="8" y="38.8" fill="#bf4040"/>
+  <path d="M148 68.8l93 2 27 88c0 1-47-56-90-40s-59-35-59-35l12-30c1 0 20-3 20-3 1 0 5 11 5 11 1 1-7 0-7 0" fill="#bf4040"/>
+  <path d="M213 13.8s24-11 31 5 21 38-13 23-43-16-43-16" fill="#bf4040"/>
+</svg>
