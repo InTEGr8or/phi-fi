@@ -30,3 +30,6 @@ When they explore these question, often at great length, and then leave them unr
 Other people are seen as soft material of reality. If they can be swayed by non-factual arguments, it is as if their cognative virtual reality of their minds can be refashioned into the manipulator's desired reality. Other people become the manipulator's first battle-ground in their war on reality, in which they place an "I wish" above an "it is".
 
 LOST brings this popular activity into stark relief. LOST starts by removing technology, and broad political culture, and focusing on a small group, isolated and new to each other.
+
+In this context we can investigate the intentional edits each character applies to each other. They are not editing reality, they are editing each other's apprehension of reality, and attempting to leave it up to the other to figure out how to implement the wish-world.
+
