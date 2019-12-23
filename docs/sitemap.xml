@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://phi-fi.com/analysis/lost/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/show-notes/westworld/s02/10-the-passenger/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/show-notes/westworld/s02/06-phase-space/</loc>
+    <lastmod>2018-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://phi-fi.com/show-notes/the-americans/s06/10-start/</loc>
     <lastmod>2018-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/show-notes/upgrade-2018/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -171,7 +191,15 @@
   </url>
   
   <url>
+    <loc>http://phi-fi.com/show-notes/ozark/02/02.the-precious-blood-of-jesus/</loc>
+  </url>
+  
+  <url>
     <loc>http://phi-fi.com/show-notes/westworld/s01/westworld.facebook.1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/versus/lost-vs-the-matrix/</loc>
   </url>
   
   <url>
@@ -328,8 +356,12 @@
   </url>
   
   <url>
+    <loc>http://phi-fi.com/show-notes/ozark/</loc>
+  </url>
+  
+  <url>
     <loc>http://phi-fi.com/</loc>
-    <lastmod>2018-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -347,6 +379,10 @@
     <loc>http://phi-fi.com/tags/property/</loc>
     <lastmod>2016-05-30T09:00:00-08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://phi-fi.com/show-notes/ozark/02/01.reparations/</loc>
   </url>
   
   <url>
@@ -394,6 +430,10 @@
   </url>
   
   <url>
+    <loc>http://phi-fi.com/show-notes/ozark/02/03.stag/</loc>
+  </url>
+  
+  <url>
     <loc>http://phi-fi.com/tags/</loc>
     <lastmod>2016-10-06T12:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -420,6 +460,10 @@
   </url>
   
   <url>
+    <loc>http://phi-fi.com/show-notes/ozark/02/08.the-big-sleep/</loc>
+  </url>
+  
+  <url>
     <loc>http://phi-fi.com/analysis/billions/s01/12-the-conversation/</loc>
   </url>
   
@@ -443,7 +487,7 @@
   
   <url>
     <loc>http://phi-fi.com/show-notes/westworld/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

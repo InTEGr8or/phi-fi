@@ -40,7 +40,11 @@ h6, .h6 {
   max-width: 60rem;
 }
 
-
+.card-body{
+  .section-title{
+    background-color: darkgoldenrod;
+  }
+}
 /*
  * Masthead for nav
  */
@@ -137,6 +141,10 @@ h6, .h6 {
 }
 .blog-pagination > .btn {
   border-radius: 2rem;
+}
+
+#site-title{
+  background-image: image("images/nofakingway.jpg");
 }
 
 

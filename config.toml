@@ -7,7 +7,7 @@ topics = ["News", "Reviews", "Critic"]
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 10 
+Paginate = 10
 enableRobotsTXT = true
 publishDir = "docs"
 googleAnalytics = "UA-30659457-1"
@@ -22,7 +22,7 @@ googleAnalytics = "UA-30659457-1"
   githubURL = "https://github.com/integr8or/phi-fi"
   podcastImage = "http://phi-fi.com/images/Phi-Fi-Island.png"
   favicon = "/images/cropped-Phi-Fi-Island-300x300.png"
-  logo = "cropped-Phi-Fi-Island-150x150"
+  logo = "/images/cropped-Phi-Fi-Island-150x150.png"
   # Date format
   #dateFormat = "January 2, 2006"
 [author]

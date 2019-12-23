@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-us" data-file="baseof">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -10,36 +10,38 @@
     <meta property="og:description" content="Fiction is the principle battlefield for philosophical ideas. It sets the stage for the other battlefields. Two characters or two different shows will make two different cases for a way to act.">
     <meta name="twitter:description" content="Fiction is the principle battlefield for philosophical ideas. It sets the stage for the other battlefields. Two characters or two different shows will make two different cases for a way to act.">
   <meta name="author" content="Mark Stouffer" />
-  <link rel='icon' type='image/x-icon' href="/images/cropped-Phi-Fi-Island-300x300.png" />
+    <link rel='icon' type='image/x-icon' href="/images/cropped-Phi-Fi-Island-300x300.png" />
   <meta property="og:site_name" content="" />
   <meta property="og:url" content="/versus/" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="/cropped-Phi-Fi-Island-150x150" />
-  <meta name="twitter:image" content="/cropped-Phi-Fi-Island-150x150" />
-  <meta name="twitter:card" content="summary" /> <meta name="generator" content="Hugo 0.39" />
-  <link href="/versus/index.xml" rel="alternate" type="application/rss+xml" title=""
-  />
-  <link href="/versus/index.xml" rel="feed" type="application/rss+xml" title=""
+  <meta property="og:image" content="/images/cropped-Phi-Fi-Island-150x150.png" />
+  <meta name="twitter:image" content="/images/cropped-Phi-Fi-Island-150x150.png" />
+  <meta name="twitter:card" content="summary" /> <meta name="generator" content="Hugo 0.47.1" />
+    <link href="/versus/index.xml" rel="alternate" type="application/rss+xml" title="" />
+    <link href="/versus/index.xml" rel="feed" type="application/rss+xml" title=""
   />
   <script src="/js/jquery-3.3.1.min.js"></script>
-  <link rel="stylesheet" href="/css/bootstrap.css" media="all" />
-  <link rel="stylesheet" href="/css/bootstrap-grid.css" media="all" />
+  <link rel="stylesheet" href="/scss/bootstrap.scss" media="all" />
+  <link rel="stylesheet" href="/scss/bootstrap-grid.css" media="all" />
   <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/scss/style.scss" media="all" />
   <link rel="stylesheet" href="/css/syntax.css" media="all" />
 
   <link rel="stylesheet" href="/css/custom.css" media="all" />
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous">
+  </script>
 </head>
+
 <body>
 <header class="site-header">
 	<nav class="site-navi">
-		<div class="row col-12">
-			<div class="col-5 title-col" >
-				<h1 class="site-title" background="/images/cropped-Phi-Fi-Island-150x150">
+			<div class="col-5 title-col">
+				<h1 class="site-title" id="site-title">
 					<a href='/' style="float: left;">
-						Phi-Fi
+						
+						<img class="col-3-md" src='/images/cropped-Phi-Fi-Island-150x150.png' alt="NOFA Kingway Logo"/>
 					</a>
 					<span class="version-span">
 						
@@ -47,7 +49,7 @@
 				</h1>
 			</div>
 			<div class="col-7 site-tag">
-					<div class="col-12">Philosophy Fiction</div>
+				<div class="col-12">Philosophy Fiction</div>
 				<div class="col-12">
 					<a href="https://github.com/integr8or/phi-fi" target="_blank">
 	<img src="https://img.shields.io/github/last-commit/google/skia.svg?style=plastic" alt="GitHub last commit">
@@ -55,16 +57,26 @@
 
 				</div>
 			</div>
-		</div>
+	</nav>
+	<nav class="nav navbar-nav">
+		<span>
+    <a href="/">Home</a>
+    
+        
+    
+</span>
+
 	</nav>
 </header>
 <hr class="site-header-bottom">
 
 
+
+  <div data-file="list"></div>
     <div class="breadcrumb list">
       Versus
-    </div> 
-  <div class="main">
+    </div>
+  <div class="main row">
     <h5 class="page-description">
       Fiction is the principle battlefield for philosophical ideas. It sets the stage for the other battlefields. Two characters or two different shows will make two different cases for a way to act.
     </h5>
@@ -72,7 +84,7 @@
 
     
 
-    <div class="page-content">
+    <div class="page-content col-md-9">
       <p>Shows such as <em>LOST</em> and <em>The Matrix</em> broke new ground on presenting philosophical questions and answers in new storytelling methods and dramatic &ldquo;footage&rdquo;. New technologies and ecosystems of film production created an environment that was fertile for richer stories and producers demonstrated that the demand was there too.</p>
 
 <p>After <em>LOST</em> especially, the dramatic storytelling landscape has become much more accepting of presenting philosophical and ethical content explicitly, often with shows titled with their philosophical content, and characters named after the philosopher most famous for presenting or originating the philosophical domain.</p>
@@ -85,40 +97,58 @@
 
 <p>These pages present the characters which stand in philosophical opposition.</p>
 
-    </div>
-    
-    <div class="main">
+      <div class="panels">
+        <div class="main">
 	<section class="row">
+			<div class="col-md-6">
+				<div class="card-body">
+					<a href="/versus/lost-vs-the-matrix/" class="article-titles">
+						<img src="" width="100%"/>
+						<h4 class="section-title"></h4>
+					</a>
+					<p class="lead">
+						
+					</p>
+					<div class="article-summary">Morality LOST and The Matrix take two widely different views of the transcendent moral question. There is always a choice before us. Our choice is not predetermined. We end up making a decision regarding these questions, and the revelation is to know this.
+The Fundamental Question LOST &gt; There are two sides, two players. One is light, the other dark.
+The Matrix &gt; This is your last chance. After this, there is no turning back.</div>
+				</div>
+			</div>
 	</section>
 </div>
-  </div>
-  <div class="main" role="main">
-    <section class="list section-list">
-        <article class="article">
-          <a href="/versus/westworld-vs-arrival/" class="article-titles">
-            <h2 class="article-title">Westworld vs Arrival</h2>
-            
-          </a>
-          <ul class="article-meta">
-            <li class="article-meta-date">
-              <time>February 6, 6022</time>
-            </li>
-          </ul>
-            <a href="/versus/westworld-vs-arrival/">
-              <img src="/images/sketch1486099695433.png" class="article-image" />
-            </a>
-          <div class="article-content"> 
-              <p>Two very popular shows provide counterpoints for two differing world-views. Few reviews of these films take the film&rsquo;s philosophical ideas seriously. They describe them like a clever puzzle or they simply help you consider that those ideas might be true. Here on Phi-Fi we want you to also ask &ldquo;and then, what?&rdquo; We want to look more closely at the philosophical ideas and then judge the belief system that would result. We are going to investigate how these different world-views directly conflict and contradict, and how those contradictions can lead to conflicts in the real world.
-</p>
-          </div>
-          <div class="article-readmore">
-            <a href="/versus/westworld-vs-arrival/">Read more...</a>
-          </div>
-          <div class="article-floatclear"></div>
-        </article>
-    </section>
+      </div>
+    </div>
     
+    <div class="right-col col-md-3" role="main">
+        <section class="list section-list">
+            <article class="article">
+              <a href="/versus/westworld-vs-arrival/" class="article-titles">
+                <h2 class="article-title">Westworld vs Arrival</h2>
+                
+              </a>
+              <ul class="article-meta">
+                <li class="article-meta-date">
+                  <time>February 6, 6022</time>
+                </li>
+              </ul>
+              <div class="col-xs-12">
+                <a href="/versus/westworld-vs-arrival/">
+                  <img src="/images/sketch1486099695433.png" class="article-image" />
+                </a>
+              </div>
+              <div class="article-content">
+                  <p>Two very popular shows provide counterpoints for two differing world-views. Few reviews of these films take the film&rsquo;s philosophical ideas seriously. They describe them like a clever puzzle or they simply help you consider that those ideas might be true. Here on Phi-Fi we want you to also ask &ldquo;and then, what?&rdquo; We want to look more closely at the philosophical ideas and then judge the belief system that would result. We are going to investigate how these different world-views directly conflict and contradict, and how those contradictions can lead to conflicts in the real world.
+</p>
+              </div>
+              <div class="article-readmore">
+                <a href="/versus/westworld-vs-arrival/">Read more...</a>
+              </div>
+              <div class="article-floatclear"></div>
+            </article>
+        </section>
+        
 
+    </div>
   </div>
 
 
@@ -140,14 +170,17 @@
 <script src="/js/script.js"></script>
 <script src="/js/custom.js"></script>
 
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-30659457-1', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-30659457-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 

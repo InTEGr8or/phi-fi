@@ -50,7 +50,7 @@ blockquote blockquote blockquote blockquote {
 
 /* Site header */
 .site-header {
-  max-width: 900px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -110,7 +110,7 @@ blockquote blockquote blockquote blockquote {
 
 /* Breadcrumb */
 .breadcrumb {
-  max-width: 900px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
@@ -125,7 +125,7 @@ blockquote blockquote blockquote blockquote {
 
 /* Main contents */
 .main {
-  max-width: 900px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -170,7 +170,7 @@ blockquote blockquote blockquote blockquote {
 }
 .article-title {
   margin: 0;
-  padding: 0;
+  padding: 5px;
 }
 .article-subtitle {
   margin: 0;
@@ -381,10 +381,7 @@ blockquote blockquote blockquote blockquote {
   margin-bottom: 15px;
 }
 .list .article-image {
-  width: 200px;
-  float: left;
-  margin: 0;
-  margin-right: 8px;
+  margin: 0 0 20px 0;
 }
 .list .article-content {
 }
@@ -397,7 +394,7 @@ blockquote blockquote blockquote blockquote {
 
 /* Site footer */
 .site-footer {
-  max-width: 900px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 70px;
@@ -555,7 +552,7 @@ blockquote blockquote blockquote blockquote {
   fill: currentColor;
 }
 
-.404 h1 {
+h1 {
   text-align: center;
 }
 
@@ -597,5 +594,8 @@ blockquote blockquote blockquote blockquote {
     width: 100%;
     box-sizing: border-box;
   }
-  
+
+}
+.panels {
+  margin-top: 20px;
 }

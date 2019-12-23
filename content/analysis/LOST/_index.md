@@ -1,8 +1,8 @@
 ---
 title: LOST
 studio: ABC
-draft: true
 published: true
+date: 2018-09-15
 ---
 I don't claim to know what the authors were saying in LOST. I know something better. I know what the story meant to me, what it told me, that is true, about the world we live in and about every human life: That each life has a begining, a middle and an end, in that order. That whatever happened, happened. And that while there is an island which is the source of the warmest, most beautiful light, and everything that is good in the world, there are some people who want to destroy that island, and everyone you love.
 

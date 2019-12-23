@@ -1,6 +1,9 @@
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.207/distr/fira_code.css);
 body {
-	color: rgba(144, 238, 144, 0.74);
+	color: #A88F57;
 	background-color: #000;
+	font-family: 'Fira Code', monospace;
+	font-size: 0.9em;
 }
 
 article {
@@ -10,18 +13,25 @@ article h1 {
 	color: goldenrod;
 }
 
-article h2.article-title {
-	color: rgb(130, 160, 255);
+article .article-title {
+	color:#DD2727;
 }
 
 a {
 	color: lightskyblue;
 }
 
-.article-meta-tags {
-	color: rgba(255, 255, 0, 0.692);
+#page-content h2{
+	color: #663399
 }
 
+.article-meta-tags {
+	color: rgba(255, 255, 0, 0.75);
+}
+
+.site-tag {
+	font-size: 1.4em;
+}
 .article img {
 	border: none;
 	padding: 7px 5px 5px 0;
@@ -32,6 +42,15 @@ a {
 .card-body{
 	padding-left: 0;
 	background-color: inherit;
+}
+
+.article-titles{
+	display: inline-block;
+	width: 100%;
+	color: #FFF900;
+	font-size: 1.2em;
+	vertical-align: 0.5%;
+	background-color: #66339975;
 }
 
 .terms {
@@ -57,4 +76,12 @@ a {
 }
 .site-tag {
 	padding: 10px 0 0 0;
+}
+.position {
+	padding-right: 5em;
+	padding-bottom: 10px;
+}
+.opposition {
+	padding-left: 5em;
+	padding-bottom: 10px;
 }
