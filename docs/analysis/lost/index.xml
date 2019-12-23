@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOST on </title>
+    <link>http://phi-fi.com/analysis/lost/</link>
+    <description>Recent content in LOST on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
+    <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://phi-fi.com/analysis/lost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
