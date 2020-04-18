@@ -10,7 +10,7 @@ Knowing that means that you know that it is possible for people to choose such a
 
 ## The Island
 
-There are a lot of stories that fixate or revolve around an obsessive center point. In the horror genre this might be a house, a mystical artifact, a village, some other haunted dwelling, or even something abstract like a signal, or a number. These center points are taken to represent something much larger, such as a world-view, and characters are lured within, trapped or "captivated" by the magnetism or gravity of the center point, and the story describes the decent into that center point. But that is the horror genre, which generally instils a horrific view of reality, or a malevolent universe view of reality.
+There are a lot of stories that fixate or revolve around an obsessive center point. In the horror genre this might be a house, a mystical artifact, a village, some other haunted dwelling, or even something abstract like a signal, or a number. These center points are taken to represent something much larger, such as a world-view, and characters are lured within, trapped or "captivated" by the magnetism or gravity of the center point, and the story describes the decent into that center point. But that is the horror genre, which generally instils a horrific view of reality, or a  malevolent universe view of reality.
 
 There are many other types of stories that have other fixations, or center points. It could be the solution to a murder, as in most crime dramas, often backed up by a history of personal tragedies of the investigators.
 
@@ -20,6 +20,20 @@ In LOST, however, the center point is an island, the archetype of a center point
 >   - The Good Place
 >   - The Event
 >   - Quantico
+>   - Predators (2010)
+>       - The eye opens mid-drop
+>       - Group of strangers are dropped into a strange world
+
+- Fringe
+- Jericho
+- Heroes
+- The Dome
+- Alchatraz
+- Once Upon a Time
+- Flash Forward
+- The Good Place
+- Westworld
+- Predators
 
 ## The Underlying Question of All Claims
 
