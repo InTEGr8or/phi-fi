@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ozark on </title>
@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>mark@thefullertonian.com (Mark Stouffer)</managingEditor>
     <webMaster>mark@thefullertonian.com (Mark Stouffer)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    
-	<atom:link href="http://phi-fi.com/show-notes/ozark/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><atom:link href="http://phi-fi.com/show-notes/ozark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://phi-fi.com/show-notes/ozark/02/02.the-precious-blood-of-jesus/</link>
